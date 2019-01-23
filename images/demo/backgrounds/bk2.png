@@ -1,0 +1,917 @@
+
+
+
+<!DOCTYPE html>
+<html amp lang="en-US">
+<head>
+    <link rel="shortcut icon" href="https://images.freecreatives.com/favicon.ico" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1, initial-scale=1">    
+    <meta name="google-site-verification" content="uBhnW60DqG1IyXVyTMqQPWaTdMILBkl6wSX0pgr9S2U" />
+    <meta name="google-site-verification" content="RVhVBBGQLhaD7hQ05t8f_wdmuTZ-TSrC4pb8vEKQWc4" />
+    <meta name="google-site-verification" content="WM0JsZwpzoudDCnDt-E5OalTjdcypIjmDsvCZg7xEWo" />
+    <meta name="verification" content="08de724b1ef6c245adbaa7dc694feffb" />
+    <meta name="msvalidate.01" content="7C2AFA00B3CEE462B9C558E987590BCE" />
+    <meta name="theme-color" content="#4a7fbb">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com/">
+
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+<noscript>
+    <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style>
+</noscript>
+<style amp-custom>*{box-sizing:border-box}body{padding:0;margin:0;font-family:'roboto-regular';color:#222;position:relative;min-height:100vh;float:left;width:100%;padding-bottom:50px}.container{width:1200px;margin:0 auto}ul{padding:0;margin:0}li{list-style:none}button{cursor:pointer}input,button,textarea{outline:0;font-family:'roboto-regular'}.icons{background:url(https://images.freecreatives.com/images/img/icons.svg) no-repeat 0 0}header{background:#fff;height:42px;padding:8px 0;position:fixed;width:100%;z-index:99;-webkit-box-shadow:0 1px 2px rgba(0,0,0,.2);-moz-box-shadow:0 1px 2px rgba(0,0,0,.2);box-shadow:0 1px 2px rgba(0,0,0,.2)}header .logo{float:left}header .logo a{float:left}header .logo .menu-btn{display:none}header .header-nav{float:left;padding:4px 0 0 35px}header .logo .menu-btn{display:none;float:left;width:15px;height:17px;border:0;padding:0;background-position:-1px 3px;margin-right:8px;margin-top:2px;cursor:pointer;-webkit-appearance:none;-moz-appearance:none;appearance:none}header .logo .menu-btn.in{background-position:-35px 3px}header .logo .menu-btn:checked{background-position:-33px 3px}.headerad{width:100%;float:left;margin-bottom:10px}.search-sec{float:right;position:relative}.search-sec .search-iocn{opacity:1;float:right;height:22px;width:18px;border:0;background-position:-67px 5px;cursor:pointer;margin-left:2px;position:inherit}.search-sec input{width:0;height:28px;opacity:0;border:0;border-radius:2px;letter-spacing:.3px;margin-top:0;transition:all .3s ease;-webkit-transition:all .3s ease;padding:0;border:1px solid #f1f1f1;position:absolute;right:21px;top:0}.search-sec input.search-box{width:200px;opacity:1;padding-left:12px}.search-sec input.active{width:200px;opacity:1;padding-left:12px}header .header-nav{float:left;padding:4px 0 0 35px}header .header-nav ul{margin:0 -15px}header .header-nav ul li{float:left;padding:0 15px}header .header-nav ul li a{color:#333;text-decoration:none;font-size:14px;letter-spacing:.6px;padding-bottom:10px}header .header-nav ul li a:hover{color:#4a7fbb}.main-body-sec{margin-top:70px}.main-body-sec .container{width:940px}.main-body-sec h1{font-size:40px;line-height:48px;letter-spacing:.2px;margin:0 0 14px}.main-body-sec .top-adsec{float:left;width:100%;margin-bottom:15px}.main-body-sec .innerpost-top-container{float:left;width:100%;clear:both;margin-bottom:20px}.main-body-sec .innerpost-top-container .ad-section{width:360px;float:left;padding-right:20px;height:280px}.main-body-sec .innerpost-top-container figure{float:right;margin:0;width:580px;height:280px;overflow:hidden;border-radius:4px;-webkit-border-radius:4px;-webkit-box-shadow:0 0 5px rgba(0,0,0,.2);box-shadow:0 0 5px rgba(0,0,0,.2)}.main-body-sec .innerpost-top-container figure img{max-width:100%;display:block;width:100%}.main-body-sec .innerpost-left-sec{width:640px;float:left;padding-right:40px}.main-body-sec .innerpost-left-sec p{margin:0 0 18px;font-size:16px;letter-spacing:.4px;line-height:26px}.main-body-sec .innerpost-left-sec p a{color:#4a7fbb;text-decoration:none;border-bottom:2px solid #4a7fbb;padding-bottom:1px}.main-body-sec .innerpost-left-sec p a:hover{border-bottom:0}.main-body-sec .innerpost-left-sec .related{background:#f5f5f5;padding:18px 20px;border-radius:3px;margin-bottom:15px;clear:both}.main-body-sec .innerpost-left-sec .related h3{margin:0;font-size:16px;font-weight:400;letter-spacing:.2px;margin-bottom:10px}.main-body-sec .innerpost-left-sec .related ul.toc-list{padding:0;margin:0;height:100px;overflow:hidden}.main-body-sec .innerpost-left-sec .related ul.toc-list li{list-style:none;margin-bottom:0;background:transparent;position:relative;padding-left:0}.main-body-sec .innerpost-left-sec .related ul.toc-list li a{color:inherit;text-decoration:none;display:inline-block;text-decoration:none;border:0}.main-body-sec .innerpost-left-sec .related ul.toc-list li h4{margin:0;font-weight:400;margin-bottom:4px;font-size:15px;max-height:24px;overflow:hidden;background:url(https://images.freecreatives.com/images/img/list-icon.svg) no-repeat 0 9px;padding-left:12px;color:#4a7fbb}.main-body-sec .innerpost-left-sec .related ul.toc-list li h4:hover{color:#212121}.main-body-sec .innerpost-left-sec .related ul.toc-list li:last-child h4{margin-bottom:0}.main-body-sec .innerpost-left-sec .related ul.toc-list li .drop-icon{float:right;width:20px;height:20px;background-position:-160px -103px;background:url(https://images.freecreatives.com/images/img/toc-icon.svg) no-repeat;background-position:0 5px;cursor:pointer;position:absolute;right:0;top:2px}.main-body-sec .innerpost-left-sec .related ul.toc-list li .drop-icon.active{background-position:0 -35px}.main-body-sec .innerpost-left-sec .related ul.toc-list li .drop{display:none;padding-left:13px}.main-body-sec .innerpost-left-sec .related ul.toc-list li .drop h4{margin-bottom:0}.main-body-sec .innerpost-left-sec .related .loadmore{background:transparent;border:0;font-size:14px;text-transform:uppercase;padding:0;border-bottom:1px solid #4a7fbb;color:#4a7fbb}.main-body-sec .innerpost-left-sec .related .loadmore:hover{border-bottom:1px solid #f5f5f5}.main-body-sec .innerpost-left-sec .widget_adsec{margin-bottom:20px;width:100%}.main-body-sec .innerpost-left-sec .widget_adsec img{margin-bottom:0;box-shadow:none}.main-body-sec .innerpost-left-sec h2{font-size:26px;margin:0 0 14px;float:left;width:100%}.main-body-sec .innerpost-left-sec ul{padding:0;clear:both}.main-body-sec .innerpost-left-sec ul li{font-size:16px;line-height:24px;letter-spacing:.3px;margin-bottom:14px;background:url(https://images.freecreatives.com/images/img/list-icon.svg) no-repeat 3px 9px;padding-left:18px;list-style:none}.main-body-sec .innerpost-left-sec ul li a{color:#4a7fbb;text-decoration:none;border-bottom:2px solid #4a7fbb;padding-bottom:2px}.main-body-sec .innerpost-left-sec ul li a:hover{border-bottom:0}.main-body-sec .innerpost-left-sec ol{padding:0;clear:both;padding-left:18px}.main-body-sec .innerpost-left-sec ol li{font-size:16px;line-height:24px;letter-spacing:.3px;margin-bottom:14px;list-style:inherit}.main-body-sec .innerpost-left-sec ol li a{color:#4a7fbb;text-decoration:none;border-bottom:1px solid #4a7fbb;padding-bottom:2px}.main-body-sec .innerpost-left-sec ol li a:hover{border-bottom:0}.main-body-sec .innerpost-left-sec h3{font-size:24px;margin:0 0 10px;font-weight:400;clear:both}.main-body-sec .innerpost-left-sec h4{font-size:22px;margin:0 0 10px;font-weight:400}.main-body-sec .innerpost-left-sec h5{font-size:20px;margin:0 0 10px;font-weight:400}.main-body-sec .innerpost-left-sec .hover-share{position:relative;margin-bottom:26px;float:left;width:100%}.main-body-sec .innerpost-left-sec .hover-share:hover .share_pin_img{display:block}.main-body-sec .innerpost-left-sec .hover-share img{margin-bottom:0;display:block}.main-body-sec .innerpost-left-sec .share_pin_img{position:absolute;right:10px;bottom:10px;background:url(https://images.designtrends.com/images/designtrendz-icons.svg) no-repeat -82px -598px;width:50px;height:50px;background-color:#4a7fbb;margin-bottom:0;cursor:pointer;display:none}.main-body-sec .innerpost-left-sec img{max-width:100%;margin-bottom:18px;border-radius:4px;height:auto;box-shadow:0 0 5px rgba(33,33,33,.13)}.main-body-sec .innerpost-left-sec .button-sec{margin-bottom:50px;float:left;width:100%}.main-body-sec .innerpost-left-sec .button-sec .download-btn{margin-bottom:0}.innerpost-left-sec .download-btn{background:#4a7fbb;color:#fff;border:0;height:45px;padding:8px 35px;font-size:18px;letter-spacing:.4px;border-radius:4px;cursor:pointer;transition:all .3s;display:inline-block;border:2px solid #4a7fbb;line-height:26px;margin-bottom:30px;text-transform:uppercase;text-decoration:none}.innerpost-left-sec .download-btn:hover{color:#4a7fbb;background:transparent;border:2px solid #4a7fbb}.innerpost-left-sec .demo-btn{background:#ccc;color:#fff;border:0;height:45px;padding:8px 35px;font-size:18px;letter-spacing:.4px;border-radius:4px;cursor:pointer;transition:all .3s;display:inline-block;border:2px solid #ccc;line-height:26px;margin-bottom:30px;text-transform:uppercase;text-decoration:none;margin-left:10px}.innerpost-left-sec .demo-btn:hover{color:#ccc;background:transparent;border:2px solid #ccc}.main-body-sec .innerpost-left-sec .btn-freedownload,.main-body-sec .innerpost-left-sec .btn-download{background:#4a7fbb;color:#fff;border:0;height:45px;padding:8px 10px;font-size:16px;letter-spacing:.4px;border-radius:4px;cursor:pointer;transition:all .3s;display:inline-block;border:2px solid #4a7fbb;line-height:26px;margin-bottom:30px;text-transform:uppercase;text-decoration:none;min-width:170px;text-align:center}.main-body-sec .innerpost-left-sec .btn-freedownload:hover{color:#4a7fbb;background:transparent;border:2px solid #4a7fbb}.main-body-sec .innerpost-left-sec .btn-download:hover{color:#4a7fbb;background:transparent;border:2px solid #4a7fbb}.main-body-sec .innerpost-left-sec .download-btn a{text-decoration:none}.main-body-sec .innerpost-left-sec .free-download-sec{background:#f8f8f8 none repeat scroll 0 0;width:100%;margin-left:0%;margin-right:0%;clear:both;border:1px solid #eee;margin-bottom:20px;padding:20px}.main-body-sec .innerpost-left-sec .control-group label{color:#000;font-family:'roboto-regular';font-size:16px;letter-spacing:.3px;margin-bottom:20px;width:100%;float:left}.main-body-sec .innerpost-left-sec .row{margin-right:0;margin-left:0;margin-bottom:30px;display:inline-block;width:100%}.main-body-sec .innerpost-left-sec .row.three-col-sec{margin:0 -10px}.main-body-sec .innerpost-left-sec .row.three-col-sec .col-sm-4{width:33.33%;padding:0 10px;float:left}.main-body-sec .innerpost-left-sec .image-grid-two{width:70%;float:left;position:relative;min-height:1px}.main-body-sec .innerpost-left-sec .image-grid-two amp-img + b{width:100%;display:block}.main-body-sec .innerpost-left-sec .image-grid-two .hover-share{margin-bottom:40px}.main-body-sec .innerpost-left-sec .image-grid-two .hover-share img{min-width:initial}.main-body-sec .innerpost-left-sec .image-grid-two .src-btn{float:left;width:100%;margin-top:-35px;font-size:12px;text-decoration:none;color:#666;margin-bottom:20px}.main-body-sec .innerpost-left-sec .button-grid-two{width:30%;float:left;position:relative;min-height:1px;padding-left:15px}.main-body-sec .innerpost-left-sec .button-grid-two .download-btn{height:38px;padding:5px 35px;font-size:16px}.main-body-sec .innerpost-left-sec .button-grid-two .detalis_cls{padding-top:0;color:#4a7fbb;font-size:18px;padding-bottom:0;margin-bottom:10px;border-bottom:solid 1px #e5e5e5;font-weight:400;display:inline-block;width:initial}.main-body-sec .innerpost-left-sec .button-grid-two .format_cls{font-size:16px;margin-bottom:5px}.main-body-sec .innerpost-left-sec .button-grid-two ul li{font-size:15px;margin-bottom:5px}.main-body-sec .aside{width:300px;float:left;margin-top:5px;position:relative}.main-body-sec .aside .ads-section{margin-bottom:15px}.main-body-sec .aside .ads-section img{max-width:100%;display:block}.main-body-sec .aside .sidebar-related{background:#fff;margin-bottom:20px;box-shadow:0 0 6px rgba(42,42,42,.16);border-radius:3px;padding:20px}.main-body-sec .aside .sidebar-related ul{padding:0;margin:0;list-style:none}.main-body-sec .aside .sidebar-related ul li{padding-bottom:12px;margin-bottom:12px;border-bottom:1px solid #f5f5f5}.main-body-sec .aside .sidebar-related ul li a{text-decoration:none}.main-body-sec .aside .sidebar-related ul li h4{margin:0;font-size:15px;font-weight:500;color:#212121;letter-spacing:.4px;background:url(https://images.freecreatives.com/images/img/list-icon.svg) no-repeat 0 7px;padding-left:12px;line-height:22px;max-height:44px;overflow:hidden}.main-body-sec .aside .sidebar-related ul li h4:hover{color:#4a7fbb}.main-body-sec .aside .sidebar-related ul li:last-child{border-bottom:0;padding-bottom:0;margin-bottom:0}.main-body-sec .aside .sidebar-category{background:#fff;margin-bottom:20px;box-shadow:0 0 6px rgba(42,42,42,.16);border-radius:3px;padding:20px}.main-body-sec .aside .sidebar-category.active{position:fixed;top:80px;width:300px}.main-body-sec .aside .sidebar-category.ab-active{position:absolute;top:initial;width:300px;bottom:0}.main-body-sec .aside .sidebar-category ul{padding:0;margin:0;list-style:none}.main-body-sec .aside .sidebar-category ul li{padding-bottom:12px;margin-bottom:12px;border-bottom:1px solid #f5f5f5}.main-body-sec .aside .sidebar-category ul li a{text-decoration:none}.main-body-sec .aside .sidebar-category ul li h4{margin:0;font-size:15px;font-weight:500;color:#212121;letter-spacing:.4px}.main-body-sec .aside .sidebar-category ul li h4:hover{color:#4a7fbb}.main-body-sec .aside .sidebar-category ul li:last-child{border-bottom:0;padding-bottom:0;margin-bottom:0}.mobile-share-sec{display:none}header .logo .menu-btn{display:block}header .header-nav{display:none}header .header-nav.active{display:block}.breadcrome-ttl{float:left;padding-left:35px;padding-top:0}.breadcrome-ttl a{text-decoration:none}.breadcrome-ttl h4{margin:0;color:#a2a2a2;font-weight:500;font-size:13px;letter-spacing:.6px;border-left:1px solid #d3d3d3;padding-left:10px;line-height:25px}.breadcrome-ttl h4:hover{color:#4a7fbb}.breadcrome-ttl.active{display:none}.social-share:hover ul{visibility:visible;opacity:1}.main-body-sec .innerpost-left-sec .source-btn{margin-bottom:10px;display:inherit;color:#ccc;font-size:14px;text-decoration:none;border:0}.parent_atag{border-bottom:0}@media screen and (max-width:1200px){.main-body-sec h1{font-size:38px}.main-body-sec .innerpost-left-sec h2{font-size:24px}.right-dir{right:5px;margin-right:0}.left-dir{left:5px}.main-body-sec .container{padding:0}}@media screen and (max-width:1024px){.container{width:100%;padding:0 20px}.main-body-sec h1{font-size:34px}.social-share .share-btn{background:url(https://images.freecreatives.com/images/img/icons.svg) no-repeat -151px 0}}@media screen and (max-width:814px){header .logo .menu-btn{display:block;float:left;width:15px;height:17px;border:0;padding:0;background-position:-1px 3px;margin-right:5px}header .logo .menu-btn.active{background-position:-33px 3px}header .header-nav{width:250px;overflow:auto;top:40px;height:100vh;background:#222;left:-250px;z-index:999;position:fixed;transition:all 0.4s;display:block;padding:20px 20px}header .header-nav.active{left:0}.main-body-sec{margin-top:70px}.main-body-sec h1{font-size:32px;line-height:42px}.main-body-sec .container{width:100%;padding:0 20px}.main-body-sec .innerpost-left-sec{width:600px;margin:0 auto;float:initial;padding-right:0}.top-adsec{display:none}.breadcrome-ttl{display:none}.main-body-sec .innerpost-top-container .ad-section{width:40%;height:240px}.main-body-sec .innerpost-top-container .ad-section img{max-width:100%;height:240px}.main-body-sec .innerpost-top-container figure{width:60%;height:240px}.main-body-sec .innerpost-top-container figure img{height:240px}.main-body-sec .aside{display:none}header .header-nav{display:block}.stick-section{display:none}.headerad{display:none}.main-body-sec .innerpost-left-sec .share_pin_img{display:block}header .header-nav{width:250px;overflow:auto;top:40px;height:100vh;background:#222;left:-250px;z-index:999;position:fixed;transition:all 0.4s;display:block;padding:20px 20px}header .header-nav ul{margin:0}header .header-nav ul li{width:100%;padding:0;margin-bottom:15px}header .header-nav ul li a{padding-bottom:0;color:#fff;text-decoration:none}}@media screen and (max-width:736px){.container{width:100%;padding:0 10px}}@media screen and (max-width:667px){body{padding-bottom:86px}.main-body-sec h1{font-size:30px}.main-body-sec .innerpost-left-sec{width:100%;padding-right:0}.scroll-button{display:none}.main-body-sec .innerpost-top-container .ad-section{height:initial}.mobile-share-sec{display:block}.search-sec .search-iocn{background:url(https://images.sampletemplates.com/images/img/icons.svg) no-repeat 0 0;background-position:-67px 5px;padding:0}}@media screen and (max-width:568px){.main-body-sec .innerpost-left-sec .hover-share img{width:100%;min-width:initial}.main-body-sec .container{padding:0 10px}}@media screen and (max-width:480px){header .search-sec{position:inherit}header .search-sec input.search-box{top:0;width:100%;padding-left:40px}header .search-sec input{position:absolute;top:-43px;width:100%;height:42px;left:0;padding-left:40px;background:#fff url(https://images.freecreatives.com/images/img/search.png) no-repeat;background-position:10px 12px;border-bottom:1px solid #f1f1f1;border-radius:0}header .search-sec input.active{top:2px;width:100%;padding-left:40px}.close{visibility:hidden;position:absolute;width:15px;height:15px;right:10px;top:-20px;visibility:hidden;background:url(https://images.freecreatives.com/images/img/close.svg) 0 0 no-repeat;transition:all .4s;cursor:pointer;display:block}header .header-nav{padding:20px 12px}header .close.in{visibility:visible;top:14px;z-index:100}.main-body-sec .innerpost-left-sec{padding:0}.main-body-sec .innerpost-left-sec .download-btn{height:38px;padding:5px 32px;font-size:16px}.main-body-sec .innerpost-left-sec .demo-btn{height:38px;padding:5px 32px;font-size:16px}.main-body-sec .innerpost-top-container figure img{height:initial}.main-body-sec .innerpost-top-container figure{height:initial}.main-body-sec h1{font-size:24px;line-height:32px;margin-bottom:10px}.main-body-sec .innerpost-left-sec .related{padding:10px 10px}.main-body-sec .innerpost-left-sec h2{font-size:22px}.main-body-sec .innerpost-left-sec h3{font-size:20px}.main-body-sec .innerpost-top-container .ad-section{width:100%;margin-bottom:20px}.main-body-sec .innerpost-top-container figure{width:100%;float:left}.main-body-sec .innerpost-left-sec .image-grid-two{width:100%}.main-body-sec .innerpost-left-sec .button-grid-two{width:100%;padding-left:0}.main-body-sec .innerpost-left-sec .related ul li h4{font-size:14px;padding-right:20px}.main-body-sec .innerpost-left-sec .hover-share{margin-bottom:20px}.main-body-sec .innerpost-left-sec .button-sec{margin-bottom:40px}.main-body-sec .innerpost-left-sec .row.three-col-sec{margin:0}.main-body-sec .innerpost-left-sec .row.three-col-sec .col-sm-4{width:100%;padding:0}}.innerpost-left-sec .ads-iframe{padding:0 8%;width:100%;float:left;margin:0 0 20px 0}@font-face{font-family:'roboto-regular';src:url(https://images.freecreatives.com/fonts/roboto-regular.woff) format("woff");font-weight:400;font-style:normal}.empty-div{width:100%;position:fixed;top:0;left:0;height:100vh;display:none}.post-container{float:left;width:100%;margin-top:70px}.post-container ul{margin:0 -10px}.post-container ul li{padding:0 10px;width:25%;margin-bottom:40px;float:left}.post-container ul li figure{width:100%;margin:0 0 14px;padding-bottom:50%;padding:0;height:180px;float:left;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 3px 10px 0 rgba(0,0,0,.2);box-shadow:0 3px 10px 0 rgba(0,0,0,.2)}.post-container ul li figure:hover+h2{color:#4a7fbb}.post-container ul li h2{float:left;width:100%;font-size:20px;margin:0;font-weight:400;line-height:28px;height:56px;overflow:hidden;margin-bottom:8px;color:#1a1a1a}.post-container ul li h2:hover{color:#4a7fbb}.post-container ul li h5{float:left;clear:both;margin:0;color:#999;font-weight:400;letter-spacing:.4px}.post-container ul li h5:hover{text-decoration:underline}.post-container .load-more-btn{float:left;width:100%;text-align:center;margin-bottom:40px}.post-container .load-more-btn button{width:65%;background:#ccc;text-align:center;padding:9px 40px;font-size:20px;border:0;border-radius:3px;letter-spacing:.3px;background:#4a7fbb;color:#fff;border:2px solid #4a7fbb;transition:all 0.4s;-webkit-transition:all 0.4s}.post-container .load-more-btn button:hover{color:#4a7fbb;background:transparent}.post-container .cat-description{float:left;width:100%}.post-container .cat-description h1{margin:0;margin-bottom:20px;font-size:40px}.post-container .cat-description p{float:left;padding:0;margin:0;margin-bottom:20px;font-size:16px;letter-spacing:.3px;line-height:24px}.post-container .cat-description p span.read-more{color:#4a7fbb;cursor:pointer}.post-container .cat-description p span.read-more:hover{text-decoration:underline}.category-content{float:left;width:100%;padding-bottom:40px}.category-content p{float:left;padding:0;margin:0;margin-bottom:20px;font-size:16px;letter-spacing:.3px;line-height:24px}.category-content h2{font-size:34px;margin:0 0 20px}.category-content h3{font-size:32px;margin:0 0 20px}amp-img{max-width:100%}.header_bottom_ad{margin-bottom:15px}.new-bottom-ad,.widget_text{width:100%}.content_inner_ad{margin-bottom:10px}@media only screen and (max-width:1200px){.container{width:100%;padding:0 20px}}@media only screen and (max-width:1024px){.container{width:100%;padding:0 20px}.post-container .cat-description h1{font-size:34px;margin-bottom:15px}}@media only screen and (max-width:814px){.post-container ul li{width:33.333%}}@media only screen and (max-width:736px){.container{width:100%;padding:0 10px}.post-container ul li{width:50%}}@media only screen and (max-width:480px){.post-container .load-more-btn button{width:100%}.post-container .cat-description h1{font-size:30px}.category-content h2{font-size:26px}}@media only screen and (max-width:375px){.post-container ul{margin:0}.post-container ul li{width:100%;padding:0}.post-container ul li h3{height:initial}}.main-body-sec .innerpost-left-sec .hover-share:hover .share_pin_img{display:block}.main-body-sec .innerpost-left-sec img{max-width:100%;margin-bottom:18px;border-radius:4px;height:auto;box-shadow:0 0 5px rgba(33,33,33,.13)}.main-body-sec .innerpost-left-sec .button-sec{margin-bottom:50px;float:left;width:100%}.main-body-sec .innerpost-left-sec .button-sec .download-btn{margin-bottom:0}.main-body-sec .innerpost-left-sec .download-btn{background:#4a7fbb;color:#fff;border:0;height:45px;padding:8px 35px;font-size:18px;letter-spacing:.4px;border-radius:4px;cursor:pointer;transition:all .3s;display:inline-block;border:2px solid #4a7fbb;line-height:26px;margin-bottom:30px;text-transform:uppercase;text-decoration:none}.main-body-sec .innerpost-left-sec .download-btn:hover{color:#4a7fbb;background:transparent;border:2px solid #4a7fbb}.main-body-sec .relative-post-sec{float:left;width:100%;margin-top:20px;margin-bottom:30px;background:#f5f5f5;padding:20px 20px 5px}.main-body-sec .relative-post-sec h3{font-size:26px;margin:0;font-weight:400;margin-bottom:15px;letter-spacing:.3px}.main-body-sec .relative-post-sec ul{padding:0;margin:0 -15px;list-style:none}.main-body-sec .relative-post-sec ul li{padding-bottom:10px;width:33.33%;float:left;padding:0 15px;margin-bottom:18px}.main-body-sec .relative-post-sec ul li a{text-decoration:none}.main-body-sec .relative-post-sec ul li h4{margin:0;font-size:15px;font-weight:500;color:#4a7fbb;letter-spacing:.4px;background:url(https://images.freecreatives.com/images/img/list-icon.svg) no-repeat 0 7px;padding-left:12px;height:20px;overflow:hidden}.main-body-sec .relative-post-sec ul li h4:hover{color:#212121}.main-body-sec .relative-post-sec ul li:last-child{border-bottom:0;padding-bottom:0}.left-dir{top:50%;background:url(https://images.freecreatives.com/images/img/icons.svg) 0 -71px no-repeat;margin-top:-40px;width:26px;position:fixed;height:80px;left:18px;z-index:8}.left-dir:hover{background-position:0 -179px}.left-dir a{display:block;height:100%;width:100%}.right-dir{top:50%;background:url(https://images.freecreatives.com/images/img/icons.svg)-65px -73px no-repeat;margin-top:-40px;width:26px;position:fixed;right:0;height:82px;float:right;margin-right:18px;z-index:8}.right-dir a{display:block;height:100%;width:100%}.right-dir:hover{background-position:-65px -181px}.stick-section{position:fixed;width:100%;top:40px;background:#4a7fbb;float:left;height:60px;padding:10px 0;z-index:9;display:none}.stick-section ul{margin:0 -15px}.stick-section ul li{width:25%;padding:0 15px;float:left;border-right:1px solid #fff;height:40px;display:flex;align-items:center}.stick-section ul li a{text-decoration:none}.stick-section ul li a h4{color:#fff;font-weight:400;font-size:15px;letter-spacing:.6px;max-height:20px;overflow:hidden;background:url(https://images.freecreatives.com/images/img/arrow-sticky.svg) no-repeat left center;padding-left:18px;margin:0}.stick-section ul li a h4:hover{text-decoration:underline}.stick-section ul li:last-child{border-right:0}.mobile-share-sec{display:none}header .logo .menu-btn{display:block}header .header-nav{display:none}header .header-nav.active{display:block}.breadcrome-ttl{float:left;padding-left:35px;padding-top:0}.breadcrome-ttl a{text-decoration:none}.breadcrome-ttl span{margin:0;color:#a9a9a9;font-weight:500;font-size:13px;letter-spacing:.6px;border-left:1px solid #d3d3d3;padding-left:10px;line-height:25px}.breadcrome-ttl span:hover{color:#4a7fbb}.breadcrome-ttl.active{display:none}.social-share{position:fixed;width:46px;height:40px;left:50%;cursor:pointer;top:50%;margin-top:-20px;margin-left:-570px}.social-share .share-btn{background:url(https://images.freecreatives.com/images/img/icons.svg) no-repeat -148px 0;width:40px;height:40px;border:0;cursor:pointer}.social-share ul{background:#ccc;padding:10px 0;position:absolute;width:100%;transition:all .2s;border-radius:3px;top:0;visibility:hidden;opacity:0}.social-share ul li{margin:0}.social-share ul li amp-social-share{width:18px;height:24px;display:block;margin:0 auto;margin-bottom:10px;cursor:pointer}.social-share ul li amp-social-share[type="facebook"]{background:url(https://images.freecreatives.com/images/img/icons.svg) -192px -71px no-repeat}.social-share ul li amp-social-share[type="twitter"]{background:url(https://images.freecreatives.com/images/img/icons.svg) -219px -70px no-repeat}.social-share ul li amp-social-share[type="gplus"]{background:url(https://images.freecreatives.com/images/img/icons.svg) -253px -72px no-repeat}.social-share ul li amp-social-share[type="linkedin"]{background:url(https://images.freecreatives.com/images/img/icons.svg) -324px -71px no-repeat}.social-share ul li amp-social-share[type="pinterest"]{background:url(https://images.freecreatives.com/images/img/icons.svg) -295px -70px no-repeat}.social-share ul li amp-social-share[type="email"]{background:url(https://images.freecreatives.com/images/img/icons.svg) -354px -71px no-repeat}.social-share ul li amp-social-share[type="facebook"]:hover{background:url(https://images.freecreatives.com/images/img/icons.svg) -192px -119px no-repeat}.social-share ul li amp-social-share[type="twitter"]:hover{background:url(https://images.freecreatives.com/images/img/icons.svg) -219px -117px no-repeat}.social-share ul li amp-social-share[type="gplus"]:hover{background:url(https://images.freecreatives.com/images/img/icons.svg) -253px -120px no-repeat}.social-share ul li amp-social-share[type="linkedin"]:hover{background:url(https://images.freecreatives.com/images/img/icons.svg) -324px -120px no-repeat}.social-share ul li amp-social-share[type="pinterest"]:hover{background:url(https://images.freecreatives.com/images/img/icons.svg) -295px -118px no-repeat}.social-share ul li amp-social-share[type="email"]:hover{background:url(https://images.freecreatives.com/images/img/icons.svg) -354px -120px no-repeat}.-amp-pinterest-en-gray{background-image:none}.scroll-button{display:block;position:fixed;right:20px;bottom:80px;z-index:99;background:6px 5px #ccc;cursor:pointer;width:50px;height:43px;text-align:center;border-radius:3px;border:0}.scroll-button:hover{box-shadow:0 2px 4px rgba(0,0,0,.14)}.scroll-button img{padding:16px 0 0 0}.main-body-sec .innerpost-left-sec .source-btn{margin-bottom:10px;display:inherit;color:#ccc;font-size:14px;text-decoration:none;border:0}.control-group input{border:solid 1px #ccc;width:100%;margin:0 0 20px 0;padding:0;color:#000;font-family:'roboto-regular';font-size:14px;padding:5px 10px;float:left}.btn-download{background:#4a7fbb;color:#fff;border:0;height:42px;padding:7px 35px;font-size:18px;letter-spacing:.4px;font-family:'roboto-regular';border-radius:4px;cursor:pointer;transition:all .3s;display:inline-block;border:2px solid #4a7fbb;line-height:26px;text-transform:uppercase;margin-bottom:50px}.btn-download:hover{background:#fff;color:#4a7fbb}.edd-resp{color:#02c;margin-bottom:15px}@media screen and (max-width:1200px){.main-body-sec h1{font-size:38px}.main-body-sec .innerpost-left-sec h2{font-size:24px}.right-dir{right:5px;margin-right:0}.left-dir{left:5px}.main-body-sec .container{padding:0}}@media screen and (max-width:1024px){.main-body-sec h1{font-size:34px}.social-share{left:5px;margin-left:0;top:250px;margin-top:0;display:inline-block;width:220px}.social-share ul{width:auto;padding:10px 5px 10px 5px}.social-share ul li{float:left;padding:0 5px}.social-share ul li span{margin-bottom:0}.social-share .share-btn{background:url(https://images.freecreatives.com/images/img/icons.svg) no-repeat -151px 0}}@media screen and (max-width:814px){.main-body-sec{margin-top:70px}.main-body-sec h1{font-size:32px;line-height:42px}.main-body-sec .container{width:100%;padding:0 20px}.main-body-sec .innerpost-left-sec{width:600px;margin:0 auto;float:initial;padding-right:0}.top-adsec{display:none}.breadcrome-ttl{display:none}.main-body-sec .innerpost-top-container .ad-section{width:40%;height:240px}.main-body-sec .innerpost-top-container .ad-section img{max-width:100%;height:240px}.main-body-sec .innerpost-top-container figure{width:60%;height:240px}.main-body-sec .innerpost-top-container figure img{height:240px}.main-body-sec .aside{display:none}header .header-nav{display:block}.stick-section{display:none}.headerad{display:none}.main-body-sec .innerpost-left-sec .share_pin_img{display:block}}@media screen and (max-width:640px){.main-body-sec h1{font-size:30px}.main-body-sec .innerpost-left-sec{width:100%;padding-right:0}.main-body-sec .relative-post-sec ul{margin:0 -10px}.main-body-sec .relative-post-sec ul li{padding:0 10px}.left-dir,.right-dir{display:none}.next-previous-section{position:fixed;width:100%;left:0;background:#f5f5f5;height:40px;bottom:0;display:block}.next-previous-section .mleft-dir{position:initial;width:30px;height:40px;float:left;margin:0;width:50%;text-align:center;font-size:14px;text-transform:uppercase;text-decoration:none;padding:10px 0;color:#212121;letter-spacing:.4px;border-right:1px solid #e4e4e4}.next-previous-section .mright-dir{position:initial;width:30px;height:40px;float:left;margin:0;width:50%;text-align:center;font-size:14px;text-transform:uppercase;text-decoration:none;padding:10px 0;letter-spacing:.4px;color:#212121}.main-body-sec .innerpost-left-sec .hover-share img{max-width:100%}.main-body-sec .relative-post-sec ul li{width:50%}.mobile-share-sec{z-index:9;position:fixed;bottom:0;width:100%;height:auto;float:left;background-color:#f1f1f1;left:0;transition:all 0.4s;display:block}.mobile-share-sec.in{bottom:-50px}.mobile-share-sec ul{width:100%;padding:0;margin:0}.mobile-share-sec ul li{float:left;list-style-type:none;color:#666;border-left:1px solid #e5e5e5;cursor:pointer;text-align:center;width:33.33%;padding:15px 0;font-family:'roboto-regular';font-size:15px}.mobile-share-sec ul li:first-child{border-left:0}.mobile-share-sec ul li i{background:0;font-style:normal;color:#17378e}.mobile-share-sec ul li span{background:url(https://images.freecreatives.com/images/img/icons.svg) -7px -38px no-repeat;width:11px;height:11px;display:inline-block}.mobile-share-sec ul li span.share{background:url(https://images.freecreatives.com/images/img/icons.svg) -54px -38px no-repeat;width:11px;height:11px}.mobile-share-sec ul li a{text-decoration:none;padding:0 6px;color:#17378e}.social-share{position:fixed;width:100%;bottom:-50px;transition:all 0.4s;z-index:8;left:0;top:initial;margin:0;height:45px}.social-share.active{bottom:49px}.social-share ul{visibility:visible;opacity:1;background:#222;border-radius:0;width:100%}.share-btn{display:none}.social-share ul li{width:16.66%;float:left}.social-share ul li a{margin-bottom:5px;margin-top:3px}.scroll-button{display:none}.main-body-sec .innerpost-top-container .ad-section{height:initial}}@media screen and (max-width:568px){.main-body-sec .innerpost-left-sec .hover-share img{width:100%;min-width:initial}.main-body-sec .container{padding:0 10px}}@media screen and (max-width:480px){.main-body-sec .innerpost-left-sec{padding:0}.main-body-sec .innerpost-left-sec .download-btn{height:38px;padding:5px 32px;font-size:16px}.main-body-sec .innerpost-top-container figure img{height:initial}.main-body-sec .innerpost-top-container figure{height:initial}.main-body-sec h1{font-size:24px;line-height:32px;margin-bottom:10px}.main-body-sec .innerpost-left-sec .related{padding:10px 10px}.main-body-sec .innerpost-left-sec h2{font-size:22px}.main-body-sec .innerpost-left-sec h3{font-size:20px}.main-body-sec .relative-post-sec ul{margin:0}.main-body-sec .relative-post-sec ul li{width:100%;padding:0}.main-body-sec .innerpost-top-container .ad-section{width:100%;margin-bottom:20px}.main-body-sec .innerpost-top-container figure{width:100%;float:left}.main-body-sec .innerpost-left-sec .image-grid-two{width:100%}.main-body-sec .innerpost-left-sec .button-grid-two{width:100%;padding-left:0}.main-body-sec .innerpost-left-sec .related ul li h4{font-size:14px;padding-right:20px}.main-body-sec .innerpost-left-sec .hover-share{margin-bottom:20px}.main-body-sec .innerpost-left-sec .button-sec{margin-bottom:40px}.main-body-sec .innerpost-left-sec .row.three-col-sec{margin:0}.main-body-sec .innerpost-left-sec .row.three-col-sec .col-sm-4{width:100%;padding:0}.main-body-sec .relative-post-sec h3{font-size:22px}}footer{border-top:0;background:#f5f5f5;position:absolute;bottom:0;height:50px;padding:7px 0;width:100%}footer ul{float:left;height:40px}footer ul li{float:left;line-height:39px;padding:0 15px}footer ul li a{font-size:14px;color:#fff;letter-spacing:.4px}footer ul li a:hover{color:#4a7fbb}footer ul li:first-child{padding-left:0}footer ul li a{color:#555;text-decoration:none}footer .copy-rights{float:right}footer .copy-rights h6{margin:0;float:right;line-height:39px;font-size:14px;color:#555;font-weight:400;letter-spacing:.3px}@media only screen and (max-width:640px){footer{height:initial;z-index:10}footer ul{text-align:center;width:100%;height:34px}footer ul li{display:inline-block;float:initial}footer ul li:first-child{padding-left:15px}.copy-rights{float:left;width:100%;text-align:center}.copy-rights h6{float:initial}}@media only screen and (max-width:480px){footer ul li{padding:0 10px}footer ul li:first-child{padding-left:10px}}@media only screen and (max-width:325px){footer ul li{padding:0 8px}footer ul li a{font-size:13px}footer ul li:first-child{padding-left:8px}footer .copy-rights h6{font-size:13px}}</style><link rel="canonical" href="https://www.freecreatives.com/backgrounds/background-images-for-website-design.html" /><title>60+ Huge Backgrounds, Wallpapers, Images, Pictures | FreeCreatives</title>
+<script type="text/javascript" src="https://gc.kis.scr.kaspersky-labs.com/A32E5704-88CE-6F43-AB86-A828687303C8/main.js" charset="UTF-8"></script><script async src="https://cdn.ampproject.org/v0.js"></script>                                           
+<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+<script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+<script async custom-element="amp-pinterest" src="https://cdn.ampproject.org/v0/amp-pinterest-0.1.js"></script>
+<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+<script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
+<script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
+<script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+<script async custom-element="amp-install-serviceworker" src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js"></script>
+<script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+</head>
+
+<body class="post-template-default single single-post postid-257 single-format-standard cat-14">
+<div id="top-page"></div>
+<amp-install-serviceworker
+    src="https://www.freecreatives.com/sw.js"
+    layout="nodisplay">
+</amp-install-serviceworker>
+
+<amp-analytics type="googleanalytics" id="analytics1">
+  <script type="application/json">
+      {
+        "vars": {
+          "account": "UA-52534146-13" 
+        },
+        "triggers": {
+          "trackPageview": { 
+            "on": "visible",
+            "request": "pageview"
+          }
+        }
+      }
+  </script>
+</amp-analytics>
+
+<amp-animation id="showAnim" layout="nodisplay">
+    <script type="application/json">
+      {
+        "duration": "200ms",
+         "fill": "both",
+         "iterations": "1",
+         "direction": "alternate",
+         "animations": [
+           {
+             "selector": "#scrollToTopButton",
+             "keyframes": [
+               { "opacity": "1", "visibility": "visible" }
+             ]
+           }
+         ]
+      }
+    </script>
+  </amp-animation>
+
+   <amp-animation id="hideAnim" layout="nodisplay">
+   <script type="application/json">
+     {
+       "duration": "200ms",
+         "fill": "both",
+         "iterations": "1",
+         "direction": "alternate",
+         "animations": [
+           {
+             "selector": "#scrollToTopButton",
+             "keyframes": [
+               { "opacity": "0", "visibility": "hidden" }
+             ]
+           }
+         ]
+     }
+   </script>
+ </amp-animation>
+
+  <div id="marker">
+   <amp-position-observer
+      on="enter:hideAnim.start; exit:showAnim.start"
+      layout="nodisplay">
+    </amp-position-observer>
+  </div>
+ <header>
+    <div class="container">
+        <div class="logo">
+          <input role="checkbox" tabindex="1" type="checkbox"  class="ampstart-btn caps m2 icons menu-btn" on="tap:AMP.setState({visibleee: !visibleee})">
+          <a href="https://www.freecreatives.com"><amp-img src="https://images.freecreatives.com/images/logo.svg" width="179" height="25" alt="FreeCreatives logo"></amp-img></a>
+        </div>
+        <div data-block="Text" class="header-nav" [class]="visibleee ? 'header-nav active' : 'header-nav'" id="header-nav">
+          <nav id="site-navigation" class="main-navigation" role="navigation"><div class="menu-header_new-container"><ul id="primary-menu" class="menu"><li id="menu-item-65448" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65448"><a href="https://www.freecreatives.com/category/mockups">Mockups</a></li>
+<li id="menu-item-65449" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-65449"><a href="https://www.freecreatives.com/category/backgrounds">Backgrounds</a></li>
+<li id="menu-item-65450" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65450"><a href="https://www.freecreatives.com/category/webs">Webs</a></li>
+<li id="menu-item-65451" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65451"><a href="https://www.freecreatives.com/category/ui-elements">UI&#8217;s</a></li>
+<li id="menu-item-65452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65452"><a href="https://www.freecreatives.com/category/icons">Icons</a></li>
+<li id="menu-item-65453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65453"><a href="https://www.freecreatives.com/category/print">Print</a></li>
+<li id="menu-item-65454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65454"><a href="https://www.freecreatives.com/category/vector">Vector</a></li>
+</ul></div></nav>        </div>
+
+        <div class="breadcrome-ttl" id="breadcrome-ttl" [class]="visibleee ? 'breadcrome-ttl active' : 'breadcrome-ttl'">
+        	            <a href="https://www.freecreatives.com/category/backgrounds"><h4>Backgrounds</h4></a>
+        </div>
+
+		<div class="search-sec">
+          <form method="GET" action="https://www.freecreatives.com" target="_top">
+            <input value="" on="tap:AMP.setState({visible: !visible})" role="input" tabindex="3" type="submit" class="icons search-iocn" aria-label="Search icon">
+                <input type="text" on="tap:AMP.setState({visible: visible})" role="input" tabindex="2" [class]="visible ? 'search-box search-box1' : 'hide'" id="srch" class="hide" aria-label="Search" placeholder=" Search on FreeCreatives" name="s" required autocomplete="off">
+                <span [class]="visible ? 'close in' : 'hide'" on="tap:AMP.setState({visible: !visible})" role="button" tabindex="4" class="hide"></span>
+          </form>
+        </div> 
+
+    </div>
+</header>
+
+  <section class="main-body-sec">
+                <div class="container">
+               <h1>60+ Free Huge Background images for website design in 2015</h1>
+                      <div class = "header_bottom_ad">
+                  <div id="text-14" class="widget widget_text">			<div class="textwidget">    <amp-ad  width="728" height="90" 
+        layout="responsive"
+        heights="(min-width:1907px) 90px, (min-width:1200px) 90px, (min-width:780px) 90px, (min-width:640px) 90px, (min-width:480px) 190px, (min-width:320px) 190px, 100%"
+         type="adsense"
+         data-ad-client="ca-pub-8812391281658222"
+         data-ad-slot="9030332598">
+      </amp-ad></div>
+		</div>        
+      </div>
+
+  <div class="innerpost-top-container">
+              <div class="ad-section">
+        <div id="text-8" class="widget widget_text">			<div class="textwidget"><amp-ad  width="336" height="280" 
+    layout="responsive"
+     type="adsense"
+     data-ad-client="ca-pub-8812391281658222"
+     data-ad-slot="8846322193"><br />
+  </amp-ad></div>
+		</div>        </div>
+        
+
+              <figure>
+          <amp-img src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-42.jpg" width="580" height="329" alt="img"></amp-img>
+        </figure>
+        </div>
+              </div>
+            <div class="post-content">
+              <div class="container">
+                <div class="innerpost-left-sec">
+                  <p>If you still think having a large background image for your website is too quirky with tricky screen resolutions and huge bandwidth costs, then I’m here to tell you, you’re wrong. With growing internet speeds and falling bandwidth costs, it’s a huge trend these days to have large web backgrounds. And when we say large web backgrounds, we don’t just mean images, it could be large graphics, illustration, animation or even a video.
+	<div class="related toc-sec">
+            <h3>Related:</h3>
+            <ul class="toc-list">
+            <li><a href='https://www.freecreatives.com/backgrounds/trending-photo-studio-background.html' class='post_clicks' id='125586'  ><h4>31+ Free New Digital Photo Studio Backgrounds</h4></a></li><li><a href='https://www.freecreatives.com/backgrounds/vintage-background-images.html' class='post_clicks' id='125568'  ><h4>40+ Vintage Background - PSD, Vector EPS, JPG Download ...</h4></a></li><li><a href='https://www.freecreatives.com/backgrounds/beach-wallpapers.html' class='post_clicks' id='125585'  ><h4>20+ Best Beach Wallpapers</h4></a></li>            </ul>
+        </div>
+<div class="content_inner_ad ad-inner">
+        <div id="text-13" class="widget widget_text">			<div class="textwidget"><amp-ad  width="336" height="280" 
+    layout="responsive"
+    heights="(min-width:1907px) 90px, (min-width:1200px) 90px, (min-width:780px) 90px, (min-width:640px) 90px, (min-width:480px) 190px, (min-width:320px) 190px, 100%"
+     type="adsense"
+     data-ad-client="ca-pub-8812391281658222"
+     data-ad-slot="8846322193"><br />
+  </amp-ad></div>
+		</div></div>
+      
+<p>Large format images are taking a centerpiece in many websites such as landing pages, one-page websites, portfolios and other similar web pages. You should be expecting more massive background images in 2015. Before you start creating your own large background site, remember that screen resolution matters, test your site in computers running different resolutions. And be careful with images that have large file sizes, optimize your image and make sure it’s of a web based format, either .jpeg or .png to avoid long loading times.
+<p>As more and more designers flock to oversized website backgrounds, we bring you up to date with our fresh compiled list of beautiful images for design which when used alongside rich typography and subtle parallax effects look mind-blowing on any website.
+<p>&nbsp;
+<h2> Laptop website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-63.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-316 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-63-1024x683.jpg" alt="Huge Backgrounds (63)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-63-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-63-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-63-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-63-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Table website background</h2>
+<p>&nbsp;
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Table-website-background.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-65005 size-full" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Table-website-background.jpg" alt="Table website background" width="600" height="400" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Table-website-background-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Table-website-background-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Table-website-background-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Table-website-background.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Printing website background</h2>
+<p>&nbsp;
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Printing-website-background.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-65007 size-full" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Printing-website-background.jpg" alt="Printing website background" width="600" height="400" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Printing-website-background-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Printing-website-background-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Printing-website-background-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Printing-website-background.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Road website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-26.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-318 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-26-1024x683.jpg" alt="Huge-Backgrounds-(26)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-26-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-26-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-26-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-26-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Camera website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-15.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-317 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-15-1024x678.jpg" alt="Huge-Backgrounds-(15)" width="665" height="440" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-15-1024x678-600x397.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-15-1024x678-480x317.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-15-1024x678-320x211.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-15-1024x678.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Cafe website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-60.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-313 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-60-1024x683.jpg" alt="Huge Backgrounds (60)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-60-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-60-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-60-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-60-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-61.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-314 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-61-1024x683.jpg" alt="Huge Backgrounds (61)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-61-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-61-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-61-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-61-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Skating website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-59.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-312 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-59-1024x801.jpg" alt="Huge Backgrounds (59)" width="665" height="520" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-59-1024x801-600x469.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-59-1024x801-480x375.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-59-1024x801-320x250.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-59-1024x801.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Cycle website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-54.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-307 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-54-1024x683.jpg" alt="Huge Backgrounds (54)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-54-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-54-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-54-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-54-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Cabin website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-56.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-309 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-56-1024x683.jpg" alt="Huge Backgrounds (56)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-56-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-56-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-56-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-56-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> City website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-58.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-311 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-58-1024x683.jpg" alt="Huge Backgrounds (58)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-58-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-58-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-58-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-58-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Office desk website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-53.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-306 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-53-1024x640.jpg" alt="Huge Backgrounds (53)" width="665" height="416" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-53-1024x640-600x375.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-53-1024x640-480x300.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-53-1024x640-320x200.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-53-1024x640.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Water boat website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-52.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-305 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-52-1024x681.jpg" alt="Huge Backgrounds (52)" width="665" height="442" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-52-1024x681-600x398.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-52-1024x681-480x319.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-52-1024x681-320x212.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-52-1024x681.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Beach website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-51.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-304 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-51-1024x678.jpg" alt="Huge Backgrounds (51)" width="665" height="440" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-51-1024x678-600x397.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-51-1024x678-480x317.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-51-1024x678-320x211.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-51-1024x678.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Runway website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-50.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-303 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-50-1024x598.jpg" alt="Huge Backgrounds (50)" width="665" height="388" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-50-1024x598-600x350.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-50-1024x598-480x280.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-50-1024x598-320x186.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-50-1024x598.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Railway Track website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-49.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-302 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-49-1024x683.jpg" alt="Huge Backgrounds (49)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-49-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-49-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-49-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-49-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Hotel website background</h2>
+<p>&nbsp;
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Hotel-website-background.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-65009 size-full" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Hotel-website-background.jpg" alt="Hotel website background" width="600" height="400" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Hotel-website-background-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Hotel-website-background-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Hotel-website-background-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Hotel-website-background.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Car showroom website background</h2>
+<p>&nbsp;
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Car-showroom-website-background.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-65010 size-full" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Car-showroom-website-background.jpg" alt="Car showroom website background" width="1920" height="1200" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Car-showroom-website-background-600x375.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Car-showroom-website-background-480x300.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Car-showroom-website-background-320x200.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Car-showroom-website-background.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Office website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-47.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-300 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-47-1024x684.jpg" alt="Huge Backgrounds (47)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-47-1024x684-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-47-1024x684-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-47-1024x684-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-47-1024x684.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-48.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-301 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-48-1024x683.jpg" alt="Huge Backgrounds (48)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-48-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-48-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-48-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-48-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-42.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-295 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-42-1024x681.jpg" alt="Huge Backgrounds (42)" width="665" height="442" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-42-1024x681-600x399.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-42-1024x681-480x319.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-42-1024x681-320x212.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-42-1024x681.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Interior website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-39.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-293 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-39-1024x768.jpg" alt="Huge Backgrounds (39)" width="665" height="499" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-39-1024x768-600x450.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-39-1024x768-480x360.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-39-1024x768-320x240.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-39-1024x768.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Bridge website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-37.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-292 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-37-680x1024.jpg" alt="Huge Backgrounds (37)" width="665" height="1001" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-37-680x1024-600x902.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-37-680x1024-480x722.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-37-680x1024-320x481.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-37-680x1024.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-33.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-288 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-33-1024x683.jpg" alt="Huge Backgrounds (33)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-33-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-33-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-33-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-33-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Laptop website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-34.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-289 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-34-1024x670.jpg" alt="Huge Backgrounds (34)" width="665" height="435" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-34-1024x670-600x392.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-34-1024x670-480x313.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-34-1024x670-320x209.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-34-1024x670.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>Meeting room website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-35.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-290 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-35-1024x683.jpg" alt="Huge Backgrounds (35)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-35-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-35-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-35-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-35-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Wooden website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-36.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-291 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-36-1024x714.jpg" alt="Huge Backgrounds (36)" width="665" height="464" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-36-1024x714-600x418.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-36-1024x714-480x334.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-36-1024x714-320x223.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-36-1024x714.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Photoshop website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-28.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-284 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-28-1024x521.jpg" alt="Huge Backgrounds (28)" width="665" height="338" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-28-1024x521-600x305.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-28-1024x521-480x244.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-28-1024x521-320x162.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-28-1024x521.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Employee desk website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-27.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-283 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-27-1024x678.jpg" alt="Huge Backgrounds (27)" width="665" height="440" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-27-1024x678-600x397.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-27-1024x678-480x317.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-27-1024x678-320x211.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-27-1024x678.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Sea port website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-25.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-282 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-25-1024x746.jpg" alt="Huge Backgrounds (25)" width="665" height="484" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-25-1024x746-600x437.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-25-1024x746-480x349.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-25-1024x746-320x233.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-25-1024x746.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Home theatre website background</h2>
+<p>&nbsp;
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Home-theatre-website-background.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-65012 size-full" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Home-theatre-website-background.jpg" alt="Home theatre website background" width="600" height="400" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Home-theatre-website-background-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Home-theatre-website-background-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Home-theatre-website-background-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Home-theatre-website-background.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2>  Study room website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-21.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-278 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-21-1024x687.jpg" alt="Huge Backgrounds (21)" width="665" height="446" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-21-1024x687-600x402.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-21-1024x687-480x322.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-21-1024x687-320x214.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-21-1024x687.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Rain drops website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-22.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-279 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-22-1024x765.jpg" alt="Huge Backgrounds (22)" width="665" height="497" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-22-1024x765-600x448.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-22-1024x765-480x358.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-22-1024x765-320x238.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-22-1024x765.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<h2> Employee website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Employee-website-background.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-65014 size-full" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Employee-website-background.jpg" alt="Employee website background" width="600" height="400" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Employee-website-background-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Employee-website-background-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Employee-website-background-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Employee-website-background.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Business website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-17.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-274 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-17-1024x576.jpg" alt="Huge Backgrounds (17)" width="665" height="374" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-17-1024x576-600x337.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-17-1024x576-480x270.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-17-1024x576-320x180.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-17-1024x576.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Studio website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-16.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-273 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-16-1024x683.jpg" alt="Huge Backgrounds (16)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-16-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-16-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-16-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-16-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-14.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-272 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-14-1024x464.jpg" alt="Huge Backgrounds (14)" width="665" height="301" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-14-1024x464-600x271.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-14-1024x464-480x217.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-14-1024x464-320x144.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-14-1024x464.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-10.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-268 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-10-1024x683.jpg" alt="Huge Backgrounds (10)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-10-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-10-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-10-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-10-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Work place website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-11.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-269 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-11-1024x768.jpg" alt="Huge Backgrounds (11)" width="665" height="499" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-11-1024x768-600x450.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-11-1024x768-480x360.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-11-1024x768-320x240.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-11-1024x768.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Cafetaria website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-12.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-270 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-12-1024x686.jpg" alt="Huge Backgrounds (12)" width="665" height="445" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-12-1024x686-600x402.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-12-1024x686-480x321.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-12-1024x686-320x214.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-12-1024x686.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2>Ocean website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-13.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-271 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-13-1024x683.jpg" alt="Huge Backgrounds (13)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-13-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-13-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-13-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-13-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2>Restaurant website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-6.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-264 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-6-1024x679.jpg" alt="Huge Backgrounds (6)" width="665" height="441" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-6-1024x679-600x398.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-6-1024x679-480x318.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-6-1024x679-320x212.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-6-1024x679.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2>Photo studio website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-5.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-263 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-5-1024x576.jpg" alt="Huge Backgrounds (5)" width="665" height="374" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-5-1024x576-600x337.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-5-1024x576-480x269.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-5-1024x576-320x179.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-5-1024x576.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2>Desert  website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-3.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-261 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-3-1024x684.jpg" alt="Huge Backgrounds (3)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-3-1024x684-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-3-1024x684-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-3-1024x684-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-3-1024x684.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<p>&nbsp;
+<h2> Cool website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-62.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-315 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-62-1024x683.jpg" alt="Huge Backgrounds (62)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-62-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-62-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-62-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-62-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Spring website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-30.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-319 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-30-1024x678.jpg" alt="Huge-Backgrounds-(30)" width="665" height="440" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-30-1024x678-600x397.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-30-1024x678-480x318.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-30-1024x678-320x212.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-30-1024x678.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Nature website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-55.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-308 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-55-1024x682.jpg" alt="Huge Backgrounds (55)" width="665" height="443" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-55-1024x682-600x399.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-55-1024x682-480x319.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-55-1024x682-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-55-1024x682.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2>Cool weather website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-24.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-281 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-24-1024x680.jpg" alt="Huge Backgrounds (24)" width="665" height="442" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-24-1024x680-600x398.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-24-1024x680-480x318.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-24-1024x680-320x212.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-24-1024x680.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-31.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-286 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-31-1024x681.jpg" alt="Huge Backgrounds (31)" width="665" height="442" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-31-1024x681-600x398.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-31-1024x681-480x319.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-31-1024x681-320x212.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-31-1024x681.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Water bridge website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-32.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-287 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-32-1024x683.jpg" alt="Huge Backgrounds (32)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-32-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-32-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-32-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-32-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2>Simple nature website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-1.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-259 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-1-1024x683.jpg" alt="Huge Backgrounds (1)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-1-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-1-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-1-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-1-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2>Green nature website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-2.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-260 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-2-1024x683.jpg" alt="Huge Backgrounds (2)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-2-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-2-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-2-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-2-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Sea waves website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-4.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-262 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-4-1024x681.jpg" alt="Huge Backgrounds (4)" width="665" height="442" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-4-1024x681-600x399.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-4-1024x681-480x319.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-4-1024x681-320x212.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-4-1024x681.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2>Pleasant website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-18.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-275 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-18-1024x681.jpg" alt="Huge Backgrounds (18)" width="665" height="442" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-18-1024x681-600x399.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-18-1024x681-480x319.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-18-1024x681-320x212.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-18-1024x681.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Nature website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-29.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-285 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-29-768x1024.jpg" alt="Huge Backgrounds (29)" width="665" height="887" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-29-768x1024-600x799.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-29-768x1024-480x639.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-29-768x1024-320x426.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-29-768x1024.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2>Cloud website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-41.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-294 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-41-1024x683.jpg" alt="Huge Backgrounds (41)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-41-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-41-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-41-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-41-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2> Beach sun set website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-9.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-267 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-9-1024x683.jpg" alt="Huge Backgrounds (9)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-9-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-9-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-9-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-9-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>&nbsp;
+<h2>Weather website background</h2>
+<p><div class="hover-share"><amp-img  class="aligncenter wp-image-266 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-8-1024x683.jpg" alt="Huge Backgrounds (8)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-8-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-8-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-8-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-8-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p>
+<p>&nbsp;
+<h2>Boating website background</h2>
+<p><a href="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-57.jpg"  rel="noopener" target="_blank"><div class="hover-share"><amp-img  class="aligncenter wp-image-310 size-large" src="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-57-1024x683.jpg" alt="Huge Backgrounds (57)" width="665" height="444" srcset="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-57-1024x683-600x400.jpg 1920w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-57-1024x683-480x320.jpg 480w, https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-57-1024x683-320x213.jpg 320w" sizes="(max-width: 600px) 100vw, 600px"  ></amp-img>
+			<div class="share_pin_img">
+			<amp-pinterest height="50" width="50"
+			      data-do="buttonPin"
+			      data-url="https%3A%2F%2Fwww.freecreatives.com%2Fbackgrounds%2Fbackground-images-for-website-design.html"
+			      data-media="https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-57-1024x683.jpg"
+			      data-description="amp-pinterest in action">
+			</amp-pinterest></div>
+		   </div><p></a>
+<p>image Source from <a href="https://unsplash.com/"  rel="noopener nofollow" target="_blank">unsplash.com</a>
+                </div>
+                <aside class="aside" id="sidebar-out">
+  <div id="sidebar">
+    <div class="sidebar-related">
+      <ul>
+      <li><a href='https://www.freecreatives.com/backgrounds/heart-background.html' class='post_clicks' id='125589'  ><h4>17+ Mindblowing Heart Backgrounds  </h4></a></li><li><a href='https://www.freecreatives.com/backgrounds/dust-backgrounds.html' class='post_clicks' id='125570'  ><h4>15+ Free Dust Backgrounds  </h4></a></li><li><a href='https://www.freecreatives.com/backgrounds/smoke-background.html' class='post_clicks' id='125581'  ><h4>18+ Free Marvelous Smoke Backgrounds  </h4></a></li><li><a href='https://www.freecreatives.com/backgrounds/beautiful-nature-images.html' class='post_clicks' id='125569'  ><h4>30+ Beautiful Images of Nature</h4></a></li><li><a href='https://www.freecreatives.com/wallpapers/study-wallpaper.html' class='post_clicks' id='125576'  ><h4>21+ Study Wallpapers, Book Backgrounds, Images, Pictures ...</h4></a></li><li><a href='https://www.freecreatives.com/wallpapers/windows-10-wallpaper.html' class='post_clicks' id='125575'  ><h4>22+ Windows 10 Wallpapers, Backgrounds, Images  </h4></a></li><li><a href='https://www.freecreatives.com/wallpapers/spring-nature-wallpaper.html' class='post_clicks' id='125579'  ><h4>22+ Spring Nature Wallpapers, Backgrounds, Images  </h4></a></li><li><a href='https://www.freecreatives.com/wallpapers/road-wallpaper.html' class='post_clicks' id='125588'  ><h4>21+ Road Wallpapers, Backgrounds, Images  </h4></a></li><li><a href='https://www.freecreatives.com/wallpapers/glitter-wallpaper.html' class='post_clicks' id='125590'  ><h4>24+ Glitter Wallpapers, Backgrounds, Images  </h4></a></li><li><a href='https://www.freecreatives.com/wallpapers/boat-wallpaper.html' class='post_clicks' id='125571'  ><h4>20+ Boat Wallpapers, Backgrounds, Images  </h4></a></li><li><a href='https://www.freecreatives.com/backgrounds/elephant-background.html' class='post_clicks' id='125572'  ><h4>18 Elephant Backgrounds, Wallpapers,Images  </h4></a></li>      </ul>
+    </div>
+<!--     <div class="ads-section" style="height:600px;width:300px">
+      <div id="freecreatives.com_300x600_fc-sidebar" class="surgeprice">
+        <script data-cfasync="false" type="text/javascript">surgeprice.display("freecreatives.com_300x600_fc-sidebar");</script>
+      </div>  
+    </div> -->
+    <div class="sidebar-category">
+      <ul>
+      <li><a href="https://www.freecreatives.com/category/advertising"><h4>Advertising</h4></a></li><li><a href="https://www.freecreatives.com/category/alphabets"><h4>Alphabets</h4></a></li><li><a href="https://www.freecreatives.com/category/arts"><h4>Arts</h4></a></li><li><a href="https://www.freecreatives.com/category/backgrounds"><h4>Backgrounds</h4></a></li><li><a href="https://www.freecreatives.com/category/banners"><h4>Banners</h4></a></li><li><a href="https://www.freecreatives.com/category/brochures"><h4>Brochures</h4></a></li><li><a href="https://www.freecreatives.com/category/brushes"><h4>Brushes</h4></a></li><li><a href="https://www.freecreatives.com/category/buttons"><h4>Buttons</h4></a></li><li><a href="https://www.freecreatives.com/category/calendar"><h4>Calendars</h4></a></li><li><a href="https://www.freecreatives.com/category/cards"><h4>Cards</h4></a></li><li><a href="https://www.freecreatives.com/category/clipart"><h4>Cliparts</h4></a></li><li><a href="https://www.freecreatives.com/category/color"><h4>Color</h4></a></li><li><a href="https://www.freecreatives.com/category/coloring-pages"><h4>Coloring Pages</h4></a></li><li><a href="https://www.freecreatives.com/category/coupons"><h4>Coupons</h4></a></li><li><a href="https://www.freecreatives.com/category/deal"><h4>Deals</h4></a></li><li><a href="https://www.freecreatives.com/category/design"><h4>Design</h4></a></li><li><a href="https://www.freecreatives.com/category/drawings"><h4>Drawings</h4></a></li><li><a href="https://www.freecreatives.com/category/email"><h4>Email</h4></a></li><li><a href="https://www.freecreatives.com/category/fine-art"><h4>Fine Art</h4></a></li><li><a href="https://www.freecreatives.com/category/flyers"><h4>Flyers</h4></a></li><li><a href="https://www.freecreatives.com/category/fonts"><h4>Fonts</h4></a></li><li><a href="https://www.freecreatives.com/category/free"><h4>Free</h4></a></li><li><a href="https://www.freecreatives.com/category/free-tools"><h4>Free Tools</h4></a></li><li><a href="https://www.freecreatives.com/category/greetings"><h4>Greetings</h4></a></li><li><a href="https://www.freecreatives.com/category/icons"><h4>Icons</h4></a></li><li><a href="https://www.freecreatives.com/category/illustration"><h4>Illustrations</h4></a></li><li><a href="https://www.freecreatives.com/category/images"><h4>Images</h4></a></li><li><a href="https://www.freecreatives.com/category/inspiration"><h4>Inspiration</h4></a></li><li><a href="https://www.freecreatives.com/category/invitations"><h4>Invitations</h4></a></li><li><a href="https://www.freecreatives.com/category/labels"><h4>Labels</h4></a></li><li><a href="https://www.freecreatives.com/category/logos"><h4>Logos</h4></a></li><li><a href="https://www.freecreatives.com/category/magazines"><h4>Magazines</h4></a></li><li><a href="https://www.freecreatives.com/category/mockups"><h4>Mockups</h4></a></li><li><a href="https://www.freecreatives.com/category/packaging"><h4>Packaging</h4></a></li><li><a href="https://www.freecreatives.com/category/paintings"><h4>Paintings</h4></a></li><li><a href="https://www.freecreatives.com/category/patterns"><h4>Patterns</h4></a></li><li><a href="https://www.freecreatives.com/category/photography"><h4>Photography</h4></a></li><li><a href="https://www.freecreatives.com/category/posters"><h4>Posters</h4></a></li><li><a href="https://www.freecreatives.com/category/presentations"><h4>Presentations</h4></a></li><li><a href="https://www.freecreatives.com/category/print"><h4>Print</h4></a></li><li><a href="https://www.freecreatives.com/category/silhouette"><h4>Silhouette</h4></a></li><li><a href="https://www.freecreatives.com/category/stickers"><h4>Stickers</h4></a></li><li><a href="https://www.freecreatives.com/category/styles"><h4>Styles</h4></a></li><li><a href="https://www.freecreatives.com/category/tags"><h4>Tags</h4></a></li><li><a href="https://www.freecreatives.com/category/textures"><h4>Textures</h4></a></li><li><a href="https://www.freecreatives.com/category/ui-elements"><h4>UI Elements</h4></a></li><li><a href="https://www.freecreatives.com/category/uis"><h4>UI's</h4></a></li><li><a href="https://www.freecreatives.com/category/uncategorized"><h4>Uncategorized</h4></a></li><li><a href="https://www.freecreatives.com/category/vector"><h4>Vector</h4></a></li><li><a href="https://www.freecreatives.com/category/vectors"><h4>Vectors</h4></a></li><li><a href="https://www.freecreatives.com/category/wallpapers"><h4>Wallpapers</h4></a></li><li><a href="https://www.freecreatives.com/category/web-elements"><h4>Web Elements</h4></a></li><li><a href="https://www.freecreatives.com/category/webs"><h4>Webs</h4></a></li>      </ul>
+    </div>
+  </div>
+</aside>
+                
+<div class="relative-post-sec">
+<h3>Related Posts</h3>
+<ul>
+    <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/street-pavement-textures.html"><h4>15+ Unique Free Street Pavement Textures</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/stone-pavement-texture.html"><h4>28 Free Seamless Outdoor Stone Pavement Textures</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/grass-pavement-textures.html"><h4>15+  Free Grass Pavement Textures to  Make Your Outside Lawn More Decorative</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/white-brick-texture.html"><h4>Download 15+ Spectacular Free White Brick Textures for Design</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/tumblr-flower-background.html"><h4>20+ Fascinating Tumblr Flower Backgrounds</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/patriotic-background.html"><h4>10+ Outstanding Patriotic Backgrounds</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/yellow-flower-background.html"><h4>20+ Outstanding Yellow Flower Backgrounds</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/blue-pattern-backgrounds.html"><h4>26+ Free Blue Pattern Backgrounds</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/new-year-desktop-wallpapers.html"><h4>20 Best and High-Res New Year Wallpapers 2016 for Desktop</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/red-backgrounds.html"><h4>80+ Awesome Red Backgrounds Collection</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/basketball-backgrounds.html"><h4>10 Best Basketball Backgrounds</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/vintage-photography-wallpapers.html"><h4>35+ Free HD Vintage Photography Wallpapers for Your Desktop</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/white-paper-texture.html"><h4>35+ White Paper Texture Backgrounds for Free Download</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/outer-space-background.html"><h4>21+ Marvelous Outer Space Backgrounds</h4></a></li>
+      <li class="col-xs-12 col-sm-6 col-md-6"><a href="https://www.freecreatives.com/backgrounds/facebook-background.html"><h4>21+ Fabulous Facebook Backgrounds</h4></a></li>
+  </ul>
+</div>
+              </div>
+            </div>
+      </section>
+  <div class="stick-section">
+        <div class="container">
+            <ul>
+            <li><a href='https://www.freecreatives.com/wallpapers/dj-wallpaper.html' class='post_clicks' id='125573'  ><h4>20+ Dj Wallpapers, Backgrounds, Pictures, Images  </h4></a></li><li><a href='https://www.freecreatives.com/wallpapers/baseball-wallpaper.html' class='post_clicks' id='125578'  ><h4>21+ Baseball Wallpapers, Backgrounds, Images  </h4></a></li><li><a href='https://www.freecreatives.com/backgrounds/aquarium-background.html' class='post_clicks' id='125583'  ><h4>25+ Aquarium Backgrounds  Wallpapers | </h4></a></li><li><a href='https://www.freecreatives.com/wallpapers/sailing-wallpaper.html' class='post_clicks' id='125584'  ><h4>21+ Sailing Wallpapers, Backgrounds, Images  </h4></a></li>            </ul>
+        </div>
+    </div>  <div class="right-dir">
+  <a href="https://www.freecreatives.com/backgrounds/vintage-background-images.html" class="link-arrow-right"></a>
+  </div>
+        <div class="empty-div"></div>
+  <div class="social-share" [class]="visiblee ? 'social-share active' : 'social-share'">
+        <button class="share-btn"></button>
+        <ul>
+            <li>
+                <amp-social-share type="pinterest" data-param-media="https://images.sampletemplates.com/wp-content/uploads/2018/09/nice1.jpg" width="18" height="24">
+                </amp-social-share>
+            </li>
+            <li>
+                <amp-social-share type="facebook" width="18" height="24" data-param-app_id="1466016447690">
+                </amp-social-share>
+            </li>
+            <li>
+                <amp-social-share type="twitter" width="26" height="24">
+                </amp-social-share>
+            </li>
+            <li>
+                <amp-social-share type="gplus" width="30" height="24">
+                </amp-social-share>
+            </li>
+            <li>
+                <amp-social-share type="linkedin" width="22" height="24">
+                </amp-social-share>
+            </li>
+            <li>
+                <amp-social-share type="email" width="30" height="24">
+                </amp-social-share>
+            </li>
+        </ul>
+    </div>   <div class="mobile-share-sec">
+        <ul>
+                      <li class="mobile-share-btn" role="" tabindex=""  on="tap:AMP.setState({visiblee: !visiblee})"><i class="share-img">SHARE</i></li>
+                        <li><a href="https://www.freecreatives.com/backgrounds/vintage-background-images.html">NEXT</a><span class="share"></span></li>
+                    </ul>
+    </div>
+    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=400)" class="scrollToTop scroll-button">
+      <amp-img src="https://images.sampletemplates.com/images/up-arrow_03.png" alt="up_arrow" width="15" height="9" alt="up_arrow"></amp-img>
+    </button>
+    <footer>
+  <div class="container">      
+          <ul>
+              <li><a href="https://www.freecreatives.com/about-us">About Us</a></li>
+              <li><a href="https://www.freecreatives.com/contact-us">Contact us</a></li>
+          </ul>
+
+    <div class="copy-rights">   
+            <h6 class="copy-rights">2018 Copyright © Freecreatives</h6>
+    </div>
+  </div>
+</footer>
+
+  <!-- <script type='text/javascript' src='https://images.freecreatives.com/js/inner_custom2.min.js' defer onload=''></script>
+ -->  
+<!-- <script type='text/javascript' src='https://www.freecreatives.com/wp-content/themes/FC-PHASE-II/js/inner_custom1.js' defer onload=''></script> -->
+  </body>
+</html>
+
