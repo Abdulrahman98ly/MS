@@ -1,3 +1,28 @@
+ <!DOCTYPE html>
+
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+<title>MIGLIOR SAPORE</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<link href="../layout/layout.css" rel="stylesheet" type="text/css" media="all">
+
+</head>
+<body id="top">
+  
+  <div class="bgded overlay" style="background-image:url('../s1.jpg');"> 
+
+<?php
+include"../header.html";
+?>
+
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+ 
+
 <?php
 
 $dsn='mysql:host=localhost;dbname=ms';
@@ -19,116 +44,25 @@ catch(PDOExeption $e)
 }
 ?>
 
-<!DOCTYPE html>
 
-<html lang="">
-<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
-<head>
-<title>MIGLIOR SAPORE</title>
-
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link href="../layout/layout.css" rel="stylesheet" type="text/css" media="all">
-<!--<link rel="stylesheet" type="text/css" href="../layout/framwork.css">-->
-</head>
-<body id="top">
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- Top Background Image Wrapper -->
-<div class="bgded overlay" style="background-image:url('menuimg/coveri.jpg');"> 
+<!-- <div class="bgded overlay" style="background-image:url('menuimg/coveri.jpg');"> -->
   <!-- ################################################################################################ -->
-  <div class="wrapper row0">
-    <div id="topbar" class="hoc clear"> 
-      <!-- ################################################################################################ -->
-      <div class="fl_left">
-        <ul class="nospace">
-          <li><a href="../index.html">Home</a></li>
-          <li><a href="mainu.html">Menu</a></li>
-      <li><a href="order.html">Order Online</a></li>
-          <li><a href="#">Our Location</a></li>
-           <li><a href="#">Cart</a></li>
-          <li><a href="../index.html#contacts">Contact</a></li>
-            
-         
-        </ul>
-      </div>
-      <div class="fl_right">
-        <ul class="nospace">
-        <li><a href="p-signin.html">login</a></li>
-        <li><a href="#">About</a></li>
-        
-        </ul>
-      </div>
-      <!-- ################################################################################################ -->
-    </div>
-  </div>
+  
   <!-- ################################################################################################ -->
   <!-- ################################################################################################ -->
   <!-- ################################################################################################ -->
-  <div class="wrapper row1">
-    <header id="header" class="hoc clear"> 
-      <!-- ################################################################################################ -->
-      <div id="logo" class="fl_left">
-        <h1><a href="../index.html">Bronea</a></h1>
-      </div>
-      <!-- ################################################################################################ -->
-      <nav id="mainav" class="fl_right">
-        <ul class="clear">
-          <li><a href="../index.html">Home</a></li>
-          <li class="active"><a class="drop" href="#">Pages</a>
-            <ul>
-              <li class="active"><a href="gallery.html">Gallery</a></li>
-              <li><a href="full-width.html">Full Width</a></li>
-              <li><a href="sidebar-left.html">Sidebar Left</a></li>
-              <li><a href="sidebar-right.html">Sidebar Right</a></li>
-              <li><a href="basic-grid.html">Basic Grid</a></li>
-            </ul>
-          </li>
-          <li><a class="drop" href="#">Dropdown</a>
-            <ul>
-              <li><a href="#">Level 2</a></li>
-              <li><a class="drop" href="#">Level 2 + Drop</a>
-                <ul>
-                  <li><a href="#">Level 3</a></li>
-                  <li><a href="#">Level 3</a></li>
-                  <li><a href="#">Level 3</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Level 2</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Link Text</a></li>
-          <li><a href="#">Link Text</a></li>
-        </ul>
-      </nav>
-      <!-- ################################################################################################ -->
-    </header>
-  </div>
-  <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
-  <div class="wrapper">
-    <section id="breadcrumb" class="hoc clear"> 
-      <!-- ################################################################################################ 
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Lorem</a></li>
-        <li><a href="#">Ipsum</a></li>
-        <li><a href="#">Dolor</a></li>
-      </ul> -->
-      <!-- ################################################################################################ -->
-      <h6 class="h_menu">You are in the store now</h6>
-      <!-- ################################################################################################ -->
-    </section>
-  </div>
+ 
   <!-- ################################################################################################ -->
 </div>
 <!-- End Top Background Image Wrapper -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper row3">
+<div class="wrapper row3" style="height: 1900px;">
   
     <!-- main body -->
    <br>
@@ -177,7 +111,7 @@ catch(PDOExeption $e)
         echo"</div>";
         
        echo"<div>";
-          echo"<button class='btnADD'> +". "add to cart" ."</button>";
+          echo"<a href='paymentt.html'><button class='btnADD'> ". "Order" ."</button></a>";
        echo"</div>";
 
       echo"</div>";
@@ -198,7 +132,7 @@ catch(PDOExeption $e)
         echo"</div>";
         
        echo"<div>";
-          echo"<button class='btnADD'> +". "add to cart" ."</button>";
+          echo"<a href='paymentt.html'><button class='btnADD'> ". "Order" ."</button></a>";
        echo"</div>";
 
       echo"</div>";
@@ -257,7 +191,7 @@ catch(PDOExeption $e)
         echo"</div>";
         
        echo"<div>";
-          echo"<button class='btnADD'> +". "add to cart" ."</button>";
+          echo"<a href='paymentt.html'><button class='btnADD'> ". "Order" ."</button></a>";
        echo"</div>";
 
       echo"</div>";
@@ -278,7 +212,7 @@ catch(PDOExeption $e)
         echo"</div>";
         
        echo"<div>";
-          echo"<button class='btnADD'> +". "add to cart" ."</button>";
+          echo"<a href='paymentt.html'><button class='btnADD'> ". "Order" ."</button></a>";
        echo"</div>";
 
       echo"</div>";
@@ -332,7 +266,7 @@ catch(PDOExeption $e)
         echo"</div>";
         
        echo"<div>";
-          echo"<button class='btnADD'> +". "add to cart" ."</button>";
+          echo"<a href='paymentt.html'><button class='btnADD'> ". "Order" ."</button></a>";
        echo"</div>";
 
       echo"</div>";
@@ -353,7 +287,7 @@ catch(PDOExeption $e)
         echo"</div>";
         
        echo"<div>";
-          echo"<button class='btnADD'> +". "add to cart" ."</button>";
+          echo"<a href='paymentt.html'><button class='btnADD'> ". "Order" ."</button></a>";
        echo"</div>";
 
       echo"</div>";
