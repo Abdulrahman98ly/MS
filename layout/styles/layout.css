@@ -326,8 +326,8 @@ table a, #comments a{background-color:inherit;}
 
 	#topbar{}
 
-	#header{padding:30px 0;}
-	#header #logo{margin:0;}
+	#header{padding:20px 0;}
+	#header #logo{float: left;}
 
 	#mainav{}
 	#mainav ul{display:none;}
@@ -386,3 +386,205 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
+
+.fade .button3 {
+
+  position: absolute;
+  
+  transition: 0.3s;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #ef0000;
+  color: white;
+  font-size: 30px;
+  padding: 17px 50px;
+  border: 1px solid white;
+  border-radius: 4px;
+  cursor: pointer;
+  
+  text-align: center;
+  font-size: 16px;
+
+}
+
+.fade .button3:hover {
+
+  	background-color: #6b0101;
+  	color: red;
+  	 box-shadow: 0 12px 30px 0 rgba(125,10,10,1),0 20px 60px 0 rgba(125,10,10,1);
+  	 border: 1px solid #a91111;
+}
+
+.slide_loca {
+	background-color: inherit;
+ width: 100%;
+  position: relative;
+
+  text-align: center;
+}
+
+.fade_loca img{
+        padding: 0;
+        width:100%;
+        height:400px;
+}
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+.buttonfind {
+
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transition: 0.3s;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #a91111;
+  color: white;
+  font-size: 30px;
+  padding: 17px 50px;
+  border: 3px solid  #211414;
+  border-radius: 4px;
+  cursor: pointer;
+  
+  text-align: center;
+  font-size: 16px;
+
+}
+
+ .buttonfind:hover {
+
+    background-color: #211414;
+    color: white;
+     box-shadow: 0 10px 10px 0 rgba(125,10,10,1),0 20px 30px 0 rgba(125,10,10,1);
+     border: 1px solid white;
+}
+
+
+
+.findus {
+	color: white;
+width: 500px;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size: 40px;
+position: absolute;
+text-align: center;
+  transform: translate(-50%, -50%);
+   top: 30%;
+  left: 50%;
+
+
+}
+
+
+.box1 {
+
+	text-align: center;
+	margin-top:50px;
+	margin-bottom: 50px;
+	height: 400px;
+}
+
+ .itemleft {
+
+	float: left;
+	width: 610px;
+	height: 124px;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin-top: 15px;
+	margin-left: 20px;
+	padding-bottom: -5px;
+
+}
+ .pic {
+	width: 80px;
+	height: auto;
+}
+
+ .sub {
+ 	margin-top: 10px;
+ 	margin-left: 20px;
+ 	margin-bottom: 5px;
+	float: left;
+	font-size: 20px;
+	}
+
+.ing {
+	margin-top: 20px;
+	margin-left: -60px;
+	float: left;
+}
+
+.pric {
+
+	float: right;
+	margin-top: 15px;
+	margin-right: 12px;
+	font-family: 'Montez', cursive;
+	font-size: 22px;
+}
+
+.btnADD {
+	margin-bottom: 0px;
+	float: left;
+	width: 50%;
+	height: 30px;
+	color: white;
+	background-color: #a50000;
+	
+}
+
+.btnADD:hover {
+
+	opacity: 0.5;
+	
+}
+
+.itemright {
+
+
+
+	float: right;
+	width: 610px;
+	height: 124px;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin-top: 15px;
+	margin-right: 20px;
+	padding-bottom: -5px;
+}
+
+.box2 {
+
+	text-align: center;
+	margin-top:300px;
+	margin-bottom: 50px;
+	height: 300px;
+
+}
+
+.box3 {
+
+	text-align: center;
+	margin-top:300px;
+	margin-bottom: 50px;
+	height: 300px;
+
+}
+
+.btnsubmit button {
+
+text-align: center;
+  
+ 
+}
+
+
+
+
+
+
+
