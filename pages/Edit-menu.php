@@ -185,6 +185,7 @@ Licence URI: https://www.os-templates.com/template-terms
     <section id="breadcrumb" class="hoc clear"> 
       <!-- ################################################################################################ -->
       
+      
       <!-- ################################################################################################ -->
       <h6 class="heading"><br><br><br>Welcome ...</h6>
       <!-- ################################################################################################ -->
@@ -411,34 +412,34 @@ echo "</tr>";
   <footer id="footer" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div class="one_half first">
-      <h6 class="heading">Posuere lectus enim quis leo</h6>
+      <h6 class="heading">How to conatct with us</h6>
       <p class="btmspace-30">Suspendisse potenti ut tempus consequat accumsan donec.</p>
       <ul class="nospace linklist contact">
         <li><i class="fa fa-map-marker"></i>
           <address>
-          Street Name &amp; Number, Town, Postcode/Zip
+          Hey AL alandlus , salaheldin &amp; Dahmani
           </address>
         </li>
-        <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
-        <li><i class="fa fa-envelope-o"></i> info@domain.com</li>
+        <li><i class="fa fa-phone"></i> +218 (91) 444 6690</li>
+        <li><i class="fa fa-envelope-o"></i> migloresapore@domain.com</li>
       </ul>
     </div>
     <div class="one_quarter">
-      <h6 class="heading">Id interdum nisl in</h6>
+      <h6 class="heading">Suggested meals</h6>
       <ul class="nospace linklist">
-        <li><a href="#">Fermentum massa eget</a></li>
-        <li><a href="#">Ipsum ut euismod arcu</a></li>
-        <li><a href="#">In volutpat mattis nam</a></li>
-        <li><a href="#">Diam leo placerat</a></li>
+        <li><a href="#">///</a></li>
+        <li><a href="#">///</a></li>
+        <li><a href="#">///</a></li>
+        <li><a href="#">///</a></li>
       </ul>
     </div>
     <div class="one_quarter">
-      <h6 class="heading">At nulla ultrices</h6>
+      <h6 class="heading">TOP MEALS</h6>
       <ul class="nospace linklist">
-        <li><a href="#">Id diam in ultrices</a></li>
-        <li><a href="#">Molestie neque nulla</a></li>
-        <li><a href="#">Massa molestie efficitur</a></li>
-        <li><a href="#">Eu tristique magna</a></li>
+        <li><a href="#">///</a></li>
+        <li><a href="#">///</a></li>
+        <li><a href="#">///</a></li>
+        <li><a href="#">///</a></li>
       </ul>
     </div>
     <!-- ################################################################################################ -->

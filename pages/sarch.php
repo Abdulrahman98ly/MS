@@ -37,7 +37,7 @@ if($x != "")
     
 
 echo "<table border='1'>";
-echo "<caption ><h1> Menue Table </h1> </caption>";
+echo "<caption ><h1> Menu Table </h1> </caption>";
 echo "<tr>";
 echo "<th>Order_id</th>";
 echo "<th>Name</th>";
@@ -60,7 +60,7 @@ echo "</tr>";
  echo"</table>";
 
 }
-}
+
 
 
 

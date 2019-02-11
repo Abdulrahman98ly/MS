@@ -1,56 +1,85 @@
 <?php
-
-$dsn='mysql:host=localhost;dbname=ms';
-$user='ms';
-$pass='111';
-
-try{
-
-$con = new PDO($dsn,$user,$pass);
-
-$con-> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
-//echo "<h1>Connected Al hamed lil Alah</h1>";
-}
-
-catch(PDOExeption $e)
-{
-  echo "faild".$e->getmessage();
-}
-
-// inerting into table order in database
-
+include("dbconnect.php");
 ?>
-
-
-
-
 <!DOCTYPE html>
-<!--
-Template Name: Bronea
-Author: <a href="https://www.os-templates.com/">OS Templates</a>
-Author URI: https://www.os-templates.com/
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
--->
+
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-<title>Order Online</title>
+<title>Contact | Miglore Sapore</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<style type="text/css">
+/* DEMO ONLY */
+.container .demo{text-align:center;}
+.container .demo div{padding:8px 0;}
+.container .demo div:nth-child(odd){color:#FFFFFF; background:#CCCCCC;}
+.container .demo div:nth-child(even){color:#FFFFFF; background:#979797;}
+@media screen and (max-width:900px){.container .demo div{margin-bottom:0;}}
+/* DEMO ONLY */
+
+#sm {
+text-align:center;
+}
+input[type=text],input[type=email], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #000000;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 18px;
+
+}
+
+input[type=submit]:hover {
+  background-color: #d0180c;
+}
+.submit-button{
+  background-color: #d0180c;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+}
+</style>
 </head>
 <body id="top">
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- Top Background Image Wrapper -->
-<div class="bgded overlay" style="height:400px; background-image:url('../images/demo/backgrounds/MIGLIOR.jpg');"> 
+<div class="bgded overlay" style="background-image:url('../images/demo/backgrounds/3041.png');"> 
   <!-- ################################################################################################ -->
   <div class="wrapper row0">
     <div id="topbar" class="hoc clear"> 
       <!-- ################################################################################################ -->
+      <div class="fl_left">
+        <ul class="nospace">
+          <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
+          <li><a href="about-us.html">About</a></li>
+          <li><a href="#">Contact</a></li>
+            <li><a href="p-signin.html">login</a></li>
+         
+        </ul>
+      </div>
       <div class="fl_right">
         <ul class="nospace">
           <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
@@ -64,62 +93,41 @@ Licence URI: https://www.os-templates.com/template-terms
   <!-- ################################################################################################ -->
   <!-- ################################################################################################ -->
   <div class="wrapper row1">
-    <header id="header" class="hoc clear"> 
+       <header id="header" class="hoc clear" > 
       <!-- ################################################################################################ -->
       <div id="logo" class="fl_left">
-        <h1><a href="../index.html">Miglior Sapore</a></h1>
+        <h1><a href="index.html">Miglore Sapore</a></h1>
       </div>
       <!-- ################################################################################################ -->
       <nav id="mainav" class="fl_right">
         <ul class="clear">
-          <li><a href="../index.html">Home</a></li>
-<!--
-          <li class="active"><a class="drop" href="#">Pages</a>
-            <ul>
-              <li><a href="gallery.html">Menu</a></li>
-              <li class="active"><a href="full-width.html">Full Width</a></li>
-              <li><a href="sidebar-left.html">Sidebar Left</a></li>
-              <li><a href="sidebar-right.html">Sidebar Right</a></li>
-              <li><a href="basic-grid.html">Basic Grid</a></li>
-            </ul>
-          </li>
-          <li><a class="drop" href="#">Location</a>
-            <ul>
-              <li><a href="#">Level 2</a></li>
-              <li><a class="drop" href="#">Level 2 + Drop</a>
-                <ul>
-                  <li><a href="#">Level 3</a></li>
-                  <li><a href="#">Level 3</a></li>
-                  <li><a href="#">Level 3</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Level 2</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Link Text</a></li>
-          <li><a href="#">Link Text</a></li>
--->
+          <li class="active"><a href="index.html">Home</a></li>
+          <li><a class="active" href="pages/main_menu.php">Menu</a></li>
+          <li><a href="pages/order_page1.php">Order Online</a></li>
+          <li><a href="pages/p-signin.html">login</a></li>
+        <!--  <li><a href="#">Link Text</a></li>-->
         </ul>
       </nav>
       <!-- ################################################################################################ -->
-
-        
     </header>
-
-
   </div>
   <!-- ################################################################################################ -->
   <!-- ################################################################################################ -->
   <!-- ################################################################################################ -->
   <div class="wrapper">
-    <section id="breadcrumb" class="hoc clear">      
+    <section id="breadcrumb" class="hoc clear"> 
       <!-- ################################################################################################ -->
-      <h6 class="heading"><br><br></h6>
-
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Contact</a></li>
+        
+      </ul>
+      <!-- ################################################################################################ -->
+      <h6 class="heading">Contact Us</h6>
+      <!-- ################################################################################################ -->
     </section>
   </div>
   <!-- ################################################################################################ -->
-
 </div>
 <!-- End Top Background Image Wrapper -->
 <!-- ################################################################################################ -->
@@ -130,43 +138,27 @@ Licence URI: https://www.os-templates.com/template-terms
     <!-- main body -->
     <!-- ################################################################################################ -->
     <div class="content"> 
-
       <!-- ################################################################################################ -->
-      
-      <div id="comments">
-        
-        <h2>Sarch for order by Customer Name :</h2>
-<!--
-        <div class="one_third" style="position: relative;">
-            <label for="op1" >Customer Name</label>
-            <input type="radio" name="op" id="op1"  value="Customer Name" style="position: absolute; left:-13px; top:4px;">
-            <label for="op2" >Customer Number</label>
-             <input type="radio" name="op" id="op2"  value="Customer Number"  style="position: absolute;left:-13px; top:31px;">
-             <label for="op3" >Order id</label>
-            <input type="radio" name="op" id="op3"  value="Order id" style="position: absolute; left:-13px; top:59px;">
-          </div>
--->    
-          <div class="one_third first">
-           <!-- <label for="Sarch">Sarch <span>*</span></label>-->
-            <input type="sarch" name="sarch" id="sarch" value="" placeholder="Sarch" size="22" onkeyup="showorder(this.value) " required style="border-color: red">
-          </div>
+  
+   <h2>Contact Information</h2>
+        <form method="post" action="c-p.php">
+            <label for="name">Name</label>
+            <input type="text" name="name" id="Name" placeholder="Enter your name"required="required"/>
 
-          <div id="result">
-            
-          </div>
-          <!--
-          <div class="one_third">
-            <label for="email">EMail <span>*</span></label>
-            <input type="email" name="email" id="email" value="" size="22" required>
-          </div>
-           -->
-      
+            <label for="email">Email</label>
+            <input type="text" name="email" id="email"placeholder="Enter your Email" required="required" />
 
-        
-      </div>
+            <label for="subject">Subject</label>
+            <input type="text" name="subject" id="subject" placeholder="Write your subject" />
+
+            <label for="Message">Message</label>
+            <textarea name="message" rows="20" cols="20" id="message" placeholder="Write your Message .." required="required"></textarea>
+        <input type="submit" name="submit" value="submit" class="submit-button" />
+        </form>
+      
+	<!-- <h2 id="sm" >Social  Media </h2>
+     
       <!-- ################################################################################################ -->
-    </div>
-    <!-- ################################################################################################ -->
     <!-- / main body -->
     <div class="clear"></div>
   </main>
@@ -230,32 +222,5 @@ Licence URI: https://www.os-templates.com/template-terms
 <script src="../layout/scripts/jquery.min.js"></script>
 <script src="../layout/scripts/jquery.backtotop.js"></script>
 <script src="../layout/scripts/jquery.mobilemenu.js"></script>
-<script >
-  function showorder(str)
-  {
-    if(str === "")
-      {document.getElementById("result").innerHTML="";
-      return;
-      }
-
-    else{
-           var xmlhttp = new XMLHttpRequest();
-           xmlhttp.onreadystatechange = function()
-           {
-               if(xmlhttp.readyState == 4 && xmlhttp.status==200)
-               {
-                document.getElementById("result").innerHTML=xmlhttp.responseText;
-               }
-
-           };
-
-           xmlhttp.open("GET","sarch.php?s="+str,true);
-           xmlhttp.send();
-
-    }
-
-  }
-
-</script>>
 </body>
 </html>

@@ -60,7 +60,7 @@ if(count($_COOKIE) > 0)
 echo "GOOD";
 else
 {
-	echo "SORY";
+	echo "SORRY";
 }
 */
             ///    
@@ -119,10 +119,6 @@ else
 }
 
 ?>
-
-
-
-
 <!DOCTYPE html>
 <!--
 Template Name: Bronea
@@ -134,7 +130,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-<title>Bronea</title>
+<title>Admin | Miglore Sapore</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -304,22 +300,9 @@ span.psw {
         <ul class="clear">
           <li class="active"><a href="../index.html">Home</a></li>
           <li><a class="active" href="Edit-menu.php"> Edit Menu</a></li>
-             <li><a class="active" href="sarch_for_order.php"> Sarch for order</a></li>
-            <!--
-          <li><a class="drop" href="#">Dropdown</a>
-            <ul>
-              <li><a href="#">Level 2</a></li>
-              <li><a class="drop" href="#">Level 2 + Drop</a>
-                <ul>
-                  <li><a href="#">Level 3</a></li>
-                  <li><a href="#">Level 3</a></li>
-                  <li><a href="#">Level 3</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Level 2</a></li>
-            </ul>
-          </li>
--->
+             <li><a class="active" href="sarch_for_order.php"> Search for order</a></li>
+			 <li><a class="active" href="dashboard.php"> Dashboard</a></li>
+           
           
         <!--  <li><a href="#">Link Text</a></li>-->
         </ul>
@@ -387,7 +370,7 @@ span.psw {
   <form class="modal-content animate"  method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-      <img src="img_avatar2.png" alt="Avatar" class="avatar">
+      <img src="../images/demo/backgrounds/login.jpg"style="height:70px;width:70px" alt="Avatar" class="avatar">
     </div>
 
     <div class="container">

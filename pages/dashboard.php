@@ -1,30 +1,24 @@
 <?php
+$db_host="localhost";
+$db_username="ms";
+$db_password="111";
+$db_name="ms";
 
-$dsn='mysql:host=localhost;dbname=ms';
-$user='ms';
-$pass='111';
 
-try{
-
-$con = new PDO($dsn,$user,$pass);
-
-$con-> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
-//echo "<h1>Connected Al hamed lil Alah</h1>";
-}
-
-catch(PDOExeption $e)
+$db_connect = mysqli_connect($db_host, $db_username, $db_password, $db_name);
+// check connection 
+ if(mysqli_connect_error())
 {
-  echo "faild".$e->getmessage();
+ echo "faild to  connected to MySql :" .mysqli_connect_error();
 }
+ //echo "connection successfuly"; 
 
-// inerting into table order in database
+// select database 
+
+$sql="SELECT * FROM contact ";
+$result=mysqli_query($db_connect,$sql);
 
 ?>
-
-
-
-
 <!DOCTYPE html>
 <!--
 Template Name: Bronea
@@ -36,7 +30,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-<title>Order Online</title>
+<title>Dashboard | Miglore Sapore</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -73,32 +67,6 @@ Licence URI: https://www.os-templates.com/template-terms
       <nav id="mainav" class="fl_right">
         <ul class="clear">
           <li><a href="../index.html">Home</a></li>
-<!--
-          <li class="active"><a class="drop" href="#">Pages</a>
-            <ul>
-              <li><a href="gallery.html">Menu</a></li>
-              <li class="active"><a href="full-width.html">Full Width</a></li>
-              <li><a href="sidebar-left.html">Sidebar Left</a></li>
-              <li><a href="sidebar-right.html">Sidebar Right</a></li>
-              <li><a href="basic-grid.html">Basic Grid</a></li>
-            </ul>
-          </li>
-          <li><a class="drop" href="#">Location</a>
-            <ul>
-              <li><a href="#">Level 2</a></li>
-              <li><a class="drop" href="#">Level 2 + Drop</a>
-                <ul>
-                  <li><a href="#">Level 3</a></li>
-                  <li><a href="#">Level 3</a></li>
-                  <li><a href="#">Level 3</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Level 2</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Link Text</a></li>
-          <li><a href="#">Link Text</a></li>
--->
         </ul>
       </nav>
       <!-- ################################################################################################ -->
@@ -118,9 +86,47 @@ Licence URI: https://www.os-templates.com/template-terms
 
     </section>
   </div>
-  <!-- ################################################################################################ -->
+ 
+ <table width="200" style="color: black; ; font-size: 16px;text-align: center;"  >
+  <tr style="font-style: bold; "  >
+    <th>Name</th>
+    <th>Email</th>
+    <th>Subject</th>
+    <th>Message</th>
+  </tr>
 
-</div>
+  <tr style="">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+
+  
+  
+  <?php
+
+   while ($contact=mysqli_fetch_array($result)) {
+      echo "<tr>";
+
+      echo "<td>".$contact['name']."</td>";
+      echo "<td>".$contact['email']."</td>";
+      echo "<td>".$contact['subject']."</td>";
+      echo "<td>".$contact['message']."</td>";
+
+      echo "</tr>";
+   }//end while
+  ?>
+</table>
+
+
 <!-- End Top Background Image Wrapper -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -131,40 +137,7 @@ Licence URI: https://www.os-templates.com/template-terms
     <!-- ################################################################################################ -->
     <div class="content"> 
 
-      <!-- ################################################################################################ -->
-      
-      <div id="comments">
-        
-        <h2>Sarch for order by Customer Name :</h2>
-<!--
-        <div class="one_third" style="position: relative;">
-            <label for="op1" >Customer Name</label>
-            <input type="radio" name="op" id="op1"  value="Customer Name" style="position: absolute; left:-13px; top:4px;">
-            <label for="op2" >Customer Number</label>
-             <input type="radio" name="op" id="op2"  value="Customer Number"  style="position: absolute;left:-13px; top:31px;">
-             <label for="op3" >Order id</label>
-            <input type="radio" name="op" id="op3"  value="Order id" style="position: absolute; left:-13px; top:59px;">
-          </div>
--->    
-          <div class="one_third first">
-           <!-- <label for="Sarch">Sarch <span>*</span></label>-->
-            <input type="sarch" name="sarch" id="sarch" value="" placeholder="Sarch" size="22" onkeyup="showorder(this.value) " required style="border-color: red">
-          </div>
-
-          <div id="result">
-            
-          </div>
-          <!--
-          <div class="one_third">
-            <label for="email">EMail <span>*</span></label>
-            <input type="email" name="email" id="email" value="" size="22" required>
-          </div>
-           -->
-      
-
-        
-      </div>
-      <!-- ################################################################################################ -->
+    
     </div>
     <!-- ################################################################################################ -->
     <!-- / main body -->
@@ -230,32 +203,5 @@ Licence URI: https://www.os-templates.com/template-terms
 <script src="../layout/scripts/jquery.min.js"></script>
 <script src="../layout/scripts/jquery.backtotop.js"></script>
 <script src="../layout/scripts/jquery.mobilemenu.js"></script>
-<script >
-  function showorder(str)
-  {
-    if(str === "")
-      {document.getElementById("result").innerHTML="";
-      return;
-      }
-
-    else{
-           var xmlhttp = new XMLHttpRequest();
-           xmlhttp.onreadystatechange = function()
-           {
-               if(xmlhttp.readyState == 4 && xmlhttp.status==200)
-               {
-                document.getElementById("result").innerHTML=xmlhttp.responseText;
-               }
-
-           };
-
-           xmlhttp.open("GET","sarch.php?s="+str,true);
-           xmlhttp.send();
-
-    }
-
-  }
-
-</script>>
 </body>
 </html>

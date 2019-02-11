@@ -42,7 +42,7 @@ echo "<tr>";
 echo "<th>Name</th>";
 echo "<th>Price</th>";
 echo "<th>Size</th>";
-echo "<th>Location In Menue</th>";
+echo "<th>Location In Menu</th>";
 ;
 //echo "<th>".count($row=$stmt->fetch(PDO::FETCH_ASSOC))."</th>";
 echo "</tr>";
