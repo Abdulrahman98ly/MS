@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.8.3
+-- version 4.8.4
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 06, 2019 at 12:17 PM
--- Server version: 10.1.36-MariaDB
--- PHP Version: 5.6.38
+-- Generation Time: Feb 11, 2019 at 06:38 AM
+-- Server version: 10.1.37-MariaDB
+-- PHP Version: 7.3.1
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -21,6 +21,26 @@ SET time_zone = "+00:00";
 --
 -- Database: `ms`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `contact`
+--
+
+CREATE TABLE `contact` (
+  `name` varchar(25) NOT NULL,
+  `email` varchar(25) NOT NULL,
+  `subject` varchar(25) NOT NULL,
+  `message` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `contact`
+--
+
+INSERT INTO `contact` (`name`, `email`, `subject`, `message`) VALUES
+('waseem', 'waseem@gmail.com', '', 'hello world');
 
 -- --------------------------------------------------------
 
@@ -73,7 +93,8 @@ INSERT INTO `order1` (`oredr_id`, `name`, `number`, `location`, `comment`) VALUE
 (4, 'Abdulmohimen Elfitury', '0916778787', 'salahadin', 'bwesm alahh'),
 (5, 'Hassan', '0916778787', 'salahadin', 'mnk\r\n'),
 (6, 'ibrahim', '0916778990', 'salahadin', 'drtr'),
-(7, 'wassem', '322', 'salahadin', 'tyry');
+(7, 'wassem', '322', 'salahadin', 'tyry'),
+(8, 'wassem', '41221', 'fesf', 'fewew');
 
 -- --------------------------------------------------------
 
@@ -109,6 +130,12 @@ INSERT INTO `users` (`id`, `name`, `pass`, `admin`) VALUES
 --
 
 --
+-- Indexes for table `contact`
+--
+ALTER TABLE `contact`
+  ADD PRIMARY KEY (`email`);
+
+--
 -- Indexes for table `menue`
 --
 ALTER TABLE `menue`
@@ -140,7 +167,7 @@ ALTER TABLE `menue`
 -- AUTO_INCREMENT for table `order1`
 --
 ALTER TABLE `order1`
-  MODIFY `oredr_id` int(30) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `oredr_id` int(30) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 
 --
 -- AUTO_INCREMENT for table `users`
