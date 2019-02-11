@@ -387,7 +387,7 @@ text-align: center;
 
 /* Rows */
 .row0, .row0 a{color:white; padding-top: 5px; }
-.row0{
+.row00{
 		
 		position: fixed;
 		background-color: #290202;
@@ -468,12 +468,12 @@ text-align: center;
 }
 
 .btnADD {
-	margin-bottom: -5px;
-	width: 100%;
-	height: 30px;
-	color: white;
-	background-color: #a50000;
-	
+  margin-bottom: -5px;
+  width: 100%;
+  height: 30px;
+  color: white;
+  background-color: #a50000;
+  
 }
 
 .btnADD:hover {
@@ -673,7 +673,7 @@ table a, #comments a{background-color:inherit;}
 	#topbar{}
 
 	#header{padding:30px 0;}
-	#header #logo{margin:0;}
+	#header #logo{margin-left: -20px;}
 
 	#mainav{}
 	#mainav ul{display:none;}
