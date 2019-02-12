@@ -1,55 +1,4 @@
-<?php
 
-$dsn='mysql:host=localhost;dbname=ms';
-$user='ms';
-$pass='111';
-
-try{
-
-$con = new PDO($dsn,$user,$pass);
-
-$con-> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
-//echo "<h1>Connected Al hamed lil Alah</h1>";
-}
-
-catch(PDOExeption $e)
-{
-  echo "faild".$e->getmessage();
-}
-
-// inerting into table order in database
-
-$c=count($_GET);
-
-
-
-if($c == 5)
-{
-   $stmt= $con->prepare("insert into order1 (name,number,location,comment) values (?,?,?,?)");
-
-
-
-if(  $stmt->execute(array($_GET['name'],$_GET['num'],$_GET['loc'],$_GET['comment'])) === true )
-{ 
-  
-  
-  echo"<script>";
-  echo"alert('Done')";
-  echo"</script>";
-  
-  
-
-}
-
-else
-{
-  echo"<script>";
-  echo"alert('Not Done')";
-  echo"</script>";
-}
-}
-?>
 
 
 
@@ -69,6 +18,45 @@ Licence URI: https://www.os-templates.com/template-terms
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<style type="text/css">
+  
+  input[type=text],input[type=email], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+.sm {
+  background-color: #000000;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 18px;
+
+}
+
+.sm:hover {
+  background-color: #d0180c;
+}
+.submit-button{
+  background-color: #d0180c;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
 </head>
 <body id="top">
 <!-- ################################################################################################ -->
@@ -77,65 +65,42 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- Top Background Image Wrapper -->
 <div class="bgded overlay" style="height:400px; background-image:url('../images/demo/backgrounds/MIGLIOR.jpg');"> 
   <!-- ################################################################################################ -->
-  <div class="wrapper row0">
+ <div class="wrapper row0">
     <div id="topbar" class="hoc clear"> 
       <!-- ################################################################################################ -->
-      <div class="fl_right">
+      <div class="fl_left">
         <ul class="nospace">
-          <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
-          <li><i class="fa fa-envelope-o"></i> info@domain.com</li>
-        </ul>
+          <li><a href="../index.html"><i class="fa fa-lg fa-home"></i></a></li>
+          <li><a href="about-us.html">About</a></li>
+          <li><a href="c.php">Contact</a></li>
+            <li><a href="p-signin.html">login</a></li>
+          </ul>
       </div>
       <!-- ################################################################################################ -->
     </div>
   </div>
   <!-- ################################################################################################ -->
   <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
   <div class="wrapper row1">
-    <header id="header" class="hoc clear"> 
+    <header id="header" class="hoc clear" > 
       <!-- ################################################################################################ -->
       <div id="logo" class="fl_left">
-        <h1><a href="../index.html">Miglior Sapore</a></h1>
+        <h1><a href="index.html">Miglore Sapore</a></h1>
       </div>
       <!-- ################################################################################################ -->
       <nav id="mainav" class="fl_right">
         <ul class="clear">
-          <li><a href="../index.html">Home</a></li>
-<!--
-          <li class="active"><a class="drop" href="#">Pages</a>
-            <ul>
-              <li><a href="gallery.html">Menu</a></li>
-              <li class="active"><a href="full-width.html">Full Width</a></li>
-              <li><a href="sidebar-left.html">Sidebar Left</a></li>
-              <li><a href="sidebar-right.html">Sidebar Right</a></li>
-              <li><a href="basic-grid.html">Basic Grid</a></li>
-            </ul>
-          </li>
-          <li><a class="drop" href="#">Location</a>
-            <ul>
-              <li><a href="#">Level 2</a></li>
-              <li><a class="drop" href="#">Level 2 + Drop</a>
-                <ul>
-                  <li><a href="#">Level 3</a></li>
-                  <li><a href="#">Level 3</a></li>
-                  <li><a href="#">Level 3</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Level 2</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Link Text</a></li>
-          <li><a href="#">Link Text</a></li>
--->
+          <li class="active"><a href="../index.html">Home</a></li>
+          <li><a class="active" href="main_menu.php">Menu</a></li>
+          <li><a href="order_page1.php">Order Online</a></li>
+          <li><a href="../index.html#sh">Search</a></li>
+          <li><a href="about-us.html">About</a></li>
+          <li><a href="c.php">Contact</a></li>
         </ul>
       </nav>
+     
       <!-- ################################################################################################ -->
-
-        
     </header>
-
-
   </div>
   <!-- ################################################################################################ -->
   <!-- ################################################################################################ -->
@@ -166,10 +131,10 @@ Licence URI: https://www.os-templates.com/template-terms
         
         <h2>Reserve your Order</h2>
         <fieldset >
-        <form action="<?php echo $_SERVER['PHP_SELF'];?>" method="get" >
-          <div class="one_third first">
+        <form action="main_menu.php" method="get" >
+          <div class="one_third first" id="n1">
             <label for="name">Name <span>*</span></label>
-            <input type="text" name="name" id="name" value="" size="22" required style="border-color: red">
+            <input type="text" name="name" id="name" value="" size="22" required >
           </div>
           <!--
           <div class="one_third">
@@ -179,21 +144,38 @@ Licence URI: https://www.os-templates.com/template-terms
            -->
           <div class="one_third">
             <label for="number">Your Number <span>*</span></label>
-            <input type="text" name="num" id="number" value="" size="22" required style="border-color: red">
+            <input type="text" name="num" id="number" value="" size="22" required >
           </div>
 
-          <div class="one_third" >
-            <label for="liocation">Location</label>
-            <input type="text" name="loc" id="location" value="" size="22" required style="border-color: red">
+         <div class="one_third">
+            <label for="location">Location</label>
+            <select id="location" required style="border-color: red" hover="red"> <option> - select -</option><option>piazza del campo</option> <option>via fiorentina</option> <option>san maniato</option> <option>via pandini</option> </select>
           </div>
           <div class="block clear" >
             <label for="comment">Your Comments</label>
-            <textarea name="comment" id="comment" cols="25" rows="10"style="border-color: red"></textarea>
+            <textarea name="comment" id="comment" cols="25" rows="10"></textarea>
           </div>
           <div>
-            <input type="submit" name="submit" value="Submit"style="border-color: red">
+            <a href="sub_menu.php"><input type="submit" name="submit" value="Submit" style="
+            background-color: #000000;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+             cursor: pointer;
+            margin-top: 40px;
+            margin-bottom: 40px;
+            margin-left: 18px; "></a>
             &nbsp;
-            <input type="reset" name="reset" value="Reset"style="border-color: red">
+            <input type="reset" name="reset" value="Reset" style=" background-color: #000000;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+             cursor: pointer;
+            margin-top: 40px;
+            margin-bottom: 40px;
+            margin-left: 18px; ">
           </div>
         </form>
       </fieldset>
@@ -212,34 +194,34 @@ Licence URI: https://www.os-templates.com/template-terms
   <footer id="footer" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div class="one_half first">
-      <h6 class="heading">How to conatct with us</h6>
+      <h6 class="heading">Posuere lectus enim quis leo</h6>
       <p class="btmspace-30">Suspendisse potenti ut tempus consequat accumsan donec.</p>
       <ul class="nospace linklist contact">
         <li><i class="fa fa-map-marker"></i>
           <address>
-          Hey AL alandlus , salaheldin &amp; Dahmani
+          Street Name &amp; Number, Town, Postcode/Zip
           </address>
         </li>
-        <li><i class="fa fa-phone"></i> +218 (91) 444 6690</li>
-        <li><i class="fa fa-envelope-o"></i> migloresapore@domain.com</li>
+        <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
+        <li><i class="fa fa-envelope-o"></i> info@domain.com</li>
       </ul>
     </div>
     <div class="one_quarter">
-      <h6 class="heading">Suggested meals</h6>
+      <h6 class="heading">Id interdum nisl in</h6>
       <ul class="nospace linklist">
-        <li><a href="#">///</a></li>
-        <li><a href="#">///</a></li>
-        <li><a href="#">///</a></li>
-        <li><a href="#">///</a></li>
+        <li><a href="#">Fermentum massa eget</a></li>
+        <li><a href="#">Ipsum ut euismod arcu</a></li>
+        <li><a href="#">In volutpat mattis nam</a></li>
+        <li><a href="#">Diam leo placerat</a></li>
       </ul>
     </div>
     <div class="one_quarter">
-      <h6 class="heading">TOP MEALS</h6>
+      <h6 class="heading">At nulla ultrices</h6>
       <ul class="nospace linklist">
-        <li><a href="#">///</a></li>
-        <li><a href="#">///</a></li>
-        <li><a href="#">///</a></li>
-        <li><a href="#">///</a></li>
+        <li><a href="#">Id diam in ultrices</a></li>
+        <li><a href="#">Molestie neque nulla</a></li>
+        <li><a href="#">Massa molestie efficitur</a></li>
+        <li><a href="#">Eu tristique magna</a></li>
       </ul>
     </div>
     <!-- ################################################################################################ -->
